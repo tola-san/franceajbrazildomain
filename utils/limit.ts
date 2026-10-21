@@ -1,0 +1,4 @@
+export const LIMIT = {
+    RELATED_PRODUCT_LIMIT: 8,
+    PRODUCTS_LIMIT: 24
+}

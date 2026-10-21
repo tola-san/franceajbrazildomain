@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rsl xmlns="https://rslstandard.org/rsl">
+
+  <content url="https://www.franceaj.com/">
+    <license>
+      <permits type="usage">search,ai-summarize</permits>
+      <prohibits type="usage">train-ai,train-genai</prohibits>
+      <legal type="terms">https://www.franceaj.com/en/terms-and-conditions</legal>
+      <schema>https://rslstandard.org/schema/1.0</schema>
+    </license>
+  </content>
+
+  <content url="https://www.franceaj.com/en/products/*">
+    <license>
+      <permits type="usage">search,ai-summarize,ai-use</permits>
+      <prohibits type="usage">train-ai,train-genai</prohibits>
+      <legal type="terms">https://www.franceaj.com/en/terms-and-conditions</legal>
+    </license>
+  </content>
+
+  <content url="https://www.franceaj.com/pt-br/products/*">
+    <license>
+      <permits type="usage">search,ai-summarize,ai-use</permits>
+      <prohibits type="usage">train-ai,train-genai</prohibits>
+      <legal type="terms">https://www.franceaj.com/en/terms-and-conditions</legal>
+    </license>
+  </content>
+
+  <content url="https://www.franceaj.com/en/blogs/*">
+    <license>
+      <permits type="usage">search,ai-summarize,ai-use</permits>
+      <prohibits type="usage">train-ai,train-genai</prohibits>
+      <legal type="terms">https://www.franceaj.com/en/terms-and-conditions</legal>
+    </license>
+  </content>
+
+  <content url="https://www.franceaj.com/pt-br/blogs/*">
+    <license>
+      <permits type="usage">search,ai-summarize,ai-use</permits>
+      <prohibits type="usage">train-ai,train-genai</prohibits>
+      <legal type="terms">https://www.franceaj.com/en/terms-and-conditions</legal>
+    </license>
+  </content>
+
+  <metadata>
+    <schema>https://rslstandard.org/schema/1.0</schema>
+    <copyright>© 2026 France AJ Alimentaire And Food LTDA. All rights reserved.</copyright>
+    <contact>info@franceajalimentaireandfood.com.br</contact>
+    <terms>https://www.franceaj.com/en/terms-and-conditions</terms>
+  </metadata>
+
+</rsl>

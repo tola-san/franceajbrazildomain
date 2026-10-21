@@ -1,0 +1,92 @@
+[
+  {
+    "id": "privacy-policy",
+    "title": "Política de Privacidade",
+    "description": "Na France AJ Alimentaire And Food LTDA exportação e importação de alimentos (\"nós\", \"nosso\"), estamos comprometidos com a proteção da privacidade e confidencialidade de nossos parceiros comerciais e clientes. Esta Política de Privacidade descreve como lidamos, armazenamos e protegemos as informações que coletamos de visitantes do nosso site e por outros meios de comunicação. Respeitamos sua privacidade e coletamos apenas as informações necessárias para facilitar consultas e desenvolver relações comerciais. Ao interagir com nosso site, você concorda com os termos descritos nesta Política de Privacidade."
+  },
+  {
+    "id": "information-we-collect",
+    "title": "Informações que Coletamos",
+    "description": "Coletamos informações mínimas por meio do nosso site para responder a consultas e processar solicitações. As informações coletadas incluem:",
+    "lists": [
+      {
+        "title": "Informações de Contato",
+        "description": "Nome da empresa, nome do contato, endereço de e-mail, número de telefone e outros dados comerciais fornecidos por formulários do site ou e-mail."
+      },
+      {
+        "title": "Preferências Comerciais e Interesses em Produtos",
+        "description": "Informações sobre os produtos e serviços do seu interesse, para personalizar nossa comunicação com você."
+      },
+      {
+        "title": "Informações Técnicas",
+        "description": "Endereço IP, tipo de navegador, detalhes do dispositivo e atividade no site, coletados automaticamente para garantir a funcionalidade do site e melhorar a experiência do usuário."
+      },
+      {
+        "title": "Cookies",
+        "description": "Utilizamos cookies para personalizar sua navegação e analisar o desempenho do site. Você pode ajustar as preferências de cookies nas configurações do seu navegador."
+      }
+    ]
+  },
+  {
+    "id": "how-we-use-the-information",
+    "title": "Como Usamos as Informações Coletadas",
+    "description": "Utilizamos as informações coletadas por meio do nosso site estritamente para os seguintes propósitos:",
+    "lists": [
+      {
+        "title": "Responder a Consultas",
+        "description": "Para fornecer informações relevantes sobre nossos produtos, serviços e oportunidades comerciais."
+      },
+      {
+        "title": "Comunicação Comercial",
+        "description": "Para facilitar a comunicação, incluindo respostas a pedidos de cotação ou informações adicionais sobre nossos serviços de exportação e importação."
+      },
+      {
+        "title": "Otimização do Site",
+        "description": "Para analisar o tráfego, o desempenho e as interações dos usuários no site, permitindo-nos melhorar a funcionalidade e a experiência do usuário."
+      },
+      {
+        "title": "Marketing (Opcional)",
+        "description": "Com o seu consentimento, podemos enviar atualizações sobre nossos produtos, promoções ou notícias do setor relevantes para seu negócio."
+      }
+    ]
+  },
+  {
+    "id": "information-sharing",
+    "title": "Compartilhamento de Informações",
+    "description": "Estamos comprometidos em garantir a confidencialidade das informações que coletamos. Não compartilhamos, vendemos ou alugamos suas informações a terceiros para fins comerciais. No entanto, podemos compartilhar informações nas seguintes circunstâncias:",
+    "lists": [
+      {
+        "title": "Prestadores de Serviços",
+        "description": "Podemos contratar prestadores de serviços terceirizados confiáveis para hospedagem de sites, infraestrutura de TI ou serviços de envio de e-mails, todos sob acordos estritos de confidencialidade."
+      },
+      {
+        "title": "Conformidade Legal",
+        "description": "Se exigido por lei, podemos divulgar suas informações em resposta a solicitações legais de autoridades ou para cumprir regulamentos de comércio internacional."
+      }
+    ]
+  },
+  {
+    "id": "data-security",
+    "title": "Segurança de Dados",
+    "description": "Tomamos medidas técnicas e organizacionais apropriadas para proteger suas informações contra acesso não autorizado, uso indevido ou divulgação. Embora nos esforcemos para garantir a segurança dos seus dados, esteja ciente de que nenhum sistema online é completamente seguro."
+  },
+  {
+    "id": "your-rights-and-choices",
+    "title": "Seus Direitos e Escolhas",
+    "description": "Como parceiro comercial valorizado, você tem os seguintes direitos em relação às suas informações:",
+    "lists": [
+      {
+        "title": "Acesso e Atualização",
+        "description": "Você pode solicitar o acesso ou a atualização das informações de contato que coletamos a qualquer momento."
+      },
+      {
+        "title": "Cancelar o Recebimento de Marketing",
+        "description": "Você pode optar por não receber comunicações de marketing seguindo as instruções de cancelamento de inscrição contidas em nossos e-mails ou entrando em contato diretamente conosco."
+      },
+      {
+        "title": "Retenção de Dados",
+        "description": "Mantemos suas informações de contato enquanto forem necessárias para responder a consultas e manter relações comerciais, a menos que seja feita uma solicitação de exclusão."
+      }
+    ]
+  }
+]

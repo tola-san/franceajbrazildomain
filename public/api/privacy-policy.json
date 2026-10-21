@@ -1,0 +1,96 @@
+[
+    {
+        "id": "privacy-policy",
+        "title": "Privacy Policy",
+        "description": "At France AJ Alimentaire And Food LTDA food export & import  (\"we,\" \"our,\" \"us\"), we are dedicated to protecting the privacy and confidentiality of our business partners and clients. This Privacy Policy outlines how we handle, store, and protect the information we collect from visitors to our website and through other forms of communication. We respect your privacy and only collect information necessary to facilitate inquiries and foster business relationships. By interacting with our website, you consent to the terms described in this Privacy Policy."
+    },
+    {
+        "id": "information-we-collect",
+        "title": "Information We Collect",
+        "description": "We collect minimal information through our website to respond to inquiries and process requests. The information collected includes:",
+        "lists": [
+            {
+                "title": "Contact Information",
+                "description": "Company name, contact name, email address, phone number, and other business-related details provided via website forms or email."
+            },
+            {
+                "title": "Business Preferences & Product Interests",
+                "description": " Information regarding the products and services you are interested in to tailor our communication with you."
+            },
+            {
+                "title": "Technical Information",
+                "description": "IP address, browser type, device details, and website activity, which are collected automatically to ensure website functionality and enhance user experience."
+            },
+            {
+                "title": "Cookies",
+                "description": "We use cookies to personalize your browsing experience and analyze website performance. You can adjust cookie preferences through your browser settings."
+            }
+        ]
+    }
+    ,
+    {
+        "id": "how-we-use-the-information",
+        "title": "Information We CollectHow We Use the Information",
+        "description": "We use the information collected through our website strictly for the following purposes:",
+        "lists": [
+            {
+                "title": "Responding to Inquiries",
+                "description": "To provide relevant information about our products, services, and business opportunities."
+            },
+            {
+                "title": "Business Communication",
+                "description": "To facilitate open communication, including responding to requests for quotations or additional information regarding our export and import services."
+            },
+            {
+                "title": "Website Optimization",
+                "description": "To analyze website traffic, performance, and user interactions, allowing us to improve site functionality and user experience."
+            },
+            {
+                "title": "Marketing (Optional)",
+                "description": " With your consent, we may send you updates about our products, promotions, or industry news relevant to your business interests."
+            }
+        ]
+    }
+    ,
+    {
+        "id": "information-sharing",
+        "title": "Information Sharing",
+        "description": "We are committed to ensuring the confidentiality of the information we collect. We do not share, sell, or rent your information to third parties for commercial purposes. However, we may share information under the following circumstances:",
+        "lists": [
+            {
+                "title": "Service Providers",
+                "description": " We may engage trusted third-party service providers for website hosting, IT infrastructure, or email delivery services, all bound by strict confidentiality agreements."
+            },
+            {
+                "title": "Legal Compliance",
+                "description": "If required by law, we may disclose your information in response to lawful requests from authorities or to comply with international trade regulations."
+            }
+        ]
+    }
+    ,
+    {
+        "id": "data-security",
+        "title": "Data Security",
+        "description": "We take appropriate technical and organizational measures to protect your information from unauthorized access, misuse, or disclosure. While we strive to ensure the security of your data, please be aware that no online system is entirely secure."
+    }
+    ,
+    {
+        "id": "your-rights-and-choices",
+        "title": "Your Rights and Choices",
+        "description": "As a valued business partner, you have the following rights concerning your information:",
+        "lists": [
+            {
+                "title": "Access and Update",
+                "description": "You can request to access or update the contact information we have collected from you at any time."
+            },
+            {
+                "title": "Opt-Out of Marketing",
+                "description": "You may opt-out of receiving marketing communications by following the unsubscribe instructions included in any of our emails or contacting us directly."
+            },
+            {
+                "title": "Data Retention",
+                "description": "We retain your contact information for as long as necessary to fulfill inquiries and maintain business relationships, unless a request for deletion is made."
+            }
+        ]
+    }
+]

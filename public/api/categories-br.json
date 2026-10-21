@@ -1,0 +1,491 @@
+[
+  {
+    "id": 1,
+    "title": "Açúcar ICUMSA",
+    "slug": "icumsa-sugar",
+    "description": "Açúcar ICUMSA a granel para importação e exportação B2B — ICUMSA 45 refinado branco, ICUMSA 150 cristal bruto e ICUMSA 600–1200 mascavo, fornecido do Brasil por usinas em sacas de 50kg, big bag de 1000kg e carga de navio, em condições FOB Santos ou CIF. Atende importadores, distribuidores, refinarias e indústrias de alimentos e bebidas em todo o mundo.",
+    "image": "/images/categories/category-sugar.png",
+    "totalProducts": 3,
+    "seo": {
+      "metaTitle": "Açúcar ICUMSA 45 Fornecedor & Exportador | Atacado",
+      "description": "Açúcar ICUMSA 45, 150 e 600–1200 a granel para exportação do Brasil. Sacas 50kg e navio, FOB Santos / CIF mundial, SGS/laudo sob consulta. Solicite cotação B2B.",
+      "keywords": [
+        "açúcar ICUMSA 45 fornecedor",
+        "açúcar ICUMSA 45 exportador Brasil",
+        "açúcar ICUMSA 45 a granel atacado",
+        "açúcar cristal ICUMSA 150 exportador",
+        "açúcar mascavo ICUMSA 600 1200 fornecedor",
+        "açúcar ICUMSA 45 preço por tonelada CIF",
+        "açúcar ICUMSA 45 preço FOB Santos",
+        "comprar açúcar ICUMSA 45 por container RFQ"
+      ],
+      "hreflang": [
+        {
+          "lang": "en",
+          "url": "https://www.franceaj.com/en/categories/icumsa-sugar"
+        },
+        {
+          "lang": "pt-br",
+          "url": "https://www.franceaj.com/pt-br/categories/acucar-icumsa"
+        },
+        {
+          "lang": "x-default",
+          "url": "https://www.franceaj.com/en/categories/icumsa-sugar"
+        }
+      ],
+      "openGraph": {
+        "title": "Açúcar ICUMSA 45, 150 e 600–1200 — Exportação B2B | France AJ",
+        "description": "Açúcar ICUMSA 45, 150 e 600–1200 a granel direto do Brasil. Sacas 50kg e carga de navio, FOB Santos / CIF mundial. SGS ou equivalente e laudo de análise sob consulta. Solicite cotação B2B.",
+        "image": "/images/about-us/sugar-banner-001.webp",
+        "url": "https://www.franceaj.com/pt-br/categories/acucar-icumsa",
+        "type": "website"
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "Açúcar ICUMSA 45, 150 e 600–1200 — Exportação B2B | France AJ",
+        "description": "Açúcar ICUMSA a granel do Brasil — FOB Santos / CIF mundial. SGS ou equivalente e laudo sob consulta. Solicite cotação B2B.",
+        "image": "/images/about-us/sugar-banner-001.webp"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "title": "Frango Congelado",
+    "slug": "frozen-chicken",
+    "description": "Frango congelado halal para atacado e exportação — frango inteiro griller (grades de peso 800g–1400g), coxa e sobrecoxa, asa, coxa, sobrecoxa, filé de peito, moela e CMS (carne mecanicamente separada). Fornecimento multi-origem do Brasil, Holanda, Rússia e Tailândia, em containers reefer de 24–27T nas condições FOB ou CIF. Atende importadores, distribuidores e indústrias de alimentos na Ásia, África Ocidental, Oriente Médio e além.",
+    "image": "/images/categories/category-frozen-chicken.png",
+    "className": "scale-125",
+    "totalProducts": 34,
+    "seo": {
+      "metaTitle": "Frango Congelado Halal Fornecedor & Exportador",
+      "description": "Frango congelado halal para exportação do Brasil — coxa e sobrecoxa, asa e frango inteiro a granel. Reefer 27T, FOB / CIF, SGS sob consulta. Solicite cotação.",
+      "keywords": [
+        "frango congelado halal fornecedor",
+        "frango congelado exportador Brasil",
+        "distribuidor de frango congelado exportação",
+        "coxa e sobrecoxa congelada fornecedor CIF",
+        "asa de frango congelada a granel por container",
+        "frango congelado preço por tonelada CIF",
+        "frango congelado container reefer FOB CIF",
+        "comprar frango congelado halal a granel RFQ"
+      ],
+      "hreflang": [
+        {
+          "lang": "en",
+          "url": "https://www.franceaj.com/en/categories/frozen-chicken"
+        },
+        {
+          "lang": "pt-br",
+          "url": "https://www.franceaj.com/pt-br/categories/frango-congelado"
+        },
+        {
+          "lang": "x-default",
+          "url": "https://www.franceaj.com/en/categories/frozen-chicken"
+        }
+      ],
+      "openGraph": {
+        "title": "Frango Congelado Halal — Exportação B2B | France AJ",
+        "description": "Frango congelado halal — coxa e sobrecoxa, asa, coxa e frango inteiro. Multi-origem, containers reefer 24–27T, FOB / CIF mundial. SGS ou equivalente e laudo de análise sob consulta. Solicite cotação B2B.",
+        "image": "/images/france-aj-banner-chicken.jpg",
+        "url": "https://www.franceaj.com/pt-br/categories/frozen-chicken",
+        "type": "website"
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "Frango Congelado Halal — Exportação B2B | France AJ",
+        "description": "Frango congelado halal — multi-origem, reefer 24–27T, FOB / CIF mundial. SGS ou equivalente e laudo sob consulta. Solicite cotação B2B.",
+        "image": "/images/france-aj-banner-chicken.jpg"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "title": "Carne Bovina Congelada",
+    "slug": "frozen-beef",
+    "description": "Uma ampla variedade de cortes de carne bovina congelada, ideal para atacado, varejo e exportação.",
+    "image": "/images/categories/category-frozen-beef.png",
+    "className": "!scale-150",
+    "totalProducts": 33,
+    "seo": {
+      "metaTitle": "Carne Bovina Congelada HALAL | Exportador SIF B2B",
+      "description": "Carne bovina congelada HALAL (SIF) — dianteiro, traseiro, miúdos. Contêineres Reefer 24-27MT. FOB/CIF. SGS e Halal certificados.",
+      "keywords": [
+        "exportador de carne bovina congelada HALAL Brasil",
+        "cortes de carne bovina congelada atacado B2B",
+        "exportação de dianteiro e traseiro bovino brasileiro",
+        "fornecedor de carne bovina aprovado SIF",
+        "miúdos bovinos congelados a granel CIF",
+        "exportação direta de carne bovina congelada"
+      ],
+      "openGraph": {
+        "title": "Carne Bovina Congelada HALAL - Exportação Atacadista B2B Brasil | France AJ",
+        "description": "Cortes premium de carne bovina congelada HALAL, dianteiro, traseiro e miúdos. Aprovado SIF, contêineres Reefer 24-27MT, FOB/CIF. SGS e Halal. Cotação B2B.",
+        "image": "/images/categories/category-frozen-beef.png",
+        "url": "https://www.franceaj.com/pt-br/categories/frozen-beef",
+        "type": "website"
+      },
+      "twitter": {
+        "title": "Carne Bovina Congelada HALAL - Exportação Atacadista B2B Brasil | France AJ",
+        "image": "/images/categories/category-frozen-beef.png"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "title": "Óleos Vegetais Brutos e Refinados",
+    "slug": "oils",
+    "description": "Óleos vegetais brutos e refinados importados a granel — óleo de palma bruto (CPO), oleína de palma RBD (CP8/CP10), girassol, soja e canola/colza. Fornecimento multi-origem em flexitank, tambor ou navio a granel, CIF Santos, para refinarias, envasadoras e indústrias alimentícias.",
+    "image": "/images/categories/category-oil.png",
+    "className": "scale-105",
+    "totalProducts": 8,
+    "seo": {
+      "metaTitle": "Óleos Vegetais Importados | Brutos e Refinados | France AJ",
+      "description": "Óleos vegetais brutos e refinados importados a granel — girassol, soja, palma e canola. Origem Mercosul/Ásia, flexitank e tambor, CIF Santos. Solicite cotação.",
+      "keywords": [
+        "óleo de palma bruto CPO importado fornecedor",
+        "oleína de palma RBD CP10 importada CIF",
+        "óleo de girassol refinado importado a granel",
+        "óleo de soja bruto degomado importado",
+        "óleo de canola refinado importado da Argentina",
+        "óleo vegetal importado preço por tonelada CIF",
+        "óleo vegetal a granel flexitank importação",
+        "importador de óleo vegetal a granel RFQ"
+      ],
+      "hreflang": [
+        {
+          "lang": "en",
+          "url": "https://www.franceaj.com/en/categories/oils"
+        },
+        {
+          "lang": "pt-br",
+          "url": "https://www.franceaj.com/pt-br/categories/oils"
+        },
+        {
+          "lang": "x-default",
+          "url": "https://www.franceaj.com/en/categories/oils"
+        }
+      ],
+      "openGraph": {
+        "title": "Óleos Vegetais Brutos e Refinados Importados — Palma, Girassol, Soja & Canola | France AJ",
+        "description": "Óleos vegetais brutos e refinados importados a granel — óleo de palma bruto (CPO), oleína de palma RBD (CP8/CP10), girassol, soja e canola. Origem Mercosul/Ásia, flexitank/tambor/IBC, CIF Santos/Paranaguá. SGS ou equivalente e laudo de análise sob consulta. Solicite cotação B2B.",
+        "image": "https://www.franceaj.com/images/categories/category-oil.png",
+        "url": "https://www.franceaj.com/pt-br/categories/oils",
+        "type": "website"
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "Óleos Vegetais Brutos e Refinados Importados — Palma, Girassol, Soja & Canola | France AJ",
+        "description": "Óleos vegetais brutos e refinados importados a granel — CPO, oleína de palma RBD (CP8/CP10), girassol, soja e canola. Origem Mercosul/Ásia, flexitank/tambor, CIF Santos/Paranaguá. SGS ou equivalente sob consulta. Solicite cotação B2B.",
+        "image": "https://www.franceaj.com/images/categories/category-oil.png"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "title": "Milho",
+    "slug": "corn",
+    "description": "Milho rico em nutrientes para processamento de alimentos, ração animal e uso industrial.",
+    "image": "/images/categories/category-corn.png",
+    "totalProducts": 8,
+    "seo": {
+      "metaTitle": "Milho Amarelo Exportador | OGM e Não-OGM Atacado",
+      "description": "Milho amarelo (ração e alimento). 12.500 MT+ navio graneleiro ou sacos 50kg. OGM e Não-OGM. FOB/CIF. SGS e Fitossanitário.",
+      "keywords": [
+        "exportador de milho amarelo a granel Brasil",
+        "milho grau ração atacado B2B",
+        "fornecedor de milho Não-OGM Brasil",
+        "milho exportação navio graneleiro CIF",
+        "milho grau alimentício FOB Santos",
+        "exportador de milho certificado SGS"
+      ],
+      "openGraph": {
+        "title": "Milho Amarelo a Granel - Exportação Atacadista B2B | France AJ",
+        "description": "Milho amarelo brasileiro grau ração e alimento (OGM/Não-OGM). 12.500 MT+ navio graneleiro, FOB/CIF. SGS e Fitossanitário. Solicite cotação B2B.",
+        "image": "/images/categories/category-corn.png",
+        "url": "https://www.franceaj.com/pt-br/categories/corn",
+        "type": "website"
+      },
+      "twitter": {
+        "title": "Milho Amarelo a Granel - Exportação Atacadista B2B | France AJ",
+        "image": "/images/categories/category-corn.png"
+      }
+    }
+  },
+  {
+    "id": 6,
+    "title": "Soja",
+    "slug": "soy-beans",
+    "description": "Soja em grão a granel para esmagamento (óleo e farelo), ração animal e processamento de alimentos — soja transgênica do Brasil e Argentina, com soja não transgênica e identidade preservada (IP) da Índia sob demanda. Grau esmagamento e ração, alto teor de proteína e óleo, fornecida em sacas de 50kg, big bags de 1000kg ou carga de navio de 12.500 MT+, nas condições FOB Santos/Paranaguá ou CIF. Atende esmagadoras, fábricas de ração, refinarias e importadores de commodities em todo o mundo.",
+    "image": "/images/categories/category-soy-bean.png",
+    "totalProducts": 3,
+    "seo": {
+      "metaTitle": "Soja Transgênica & Não Transgênica a Granel | France AJ",
+      "description": "Soja a granel para esmagamento e ração — transgênica do Brasil e Argentina, não transgênica da Índia. Navio 12.500 MT+, FOB Santos / CIF. Solicite cotação B2B.",
+      "keywords": [
+        "soja transgênica a granel exportador Brasil",
+        "soja transgênica fornecedor Argentina CIF",
+        "soja não transgênica IP Índia fornecedor",
+        "soja para esmagamento óleo e farelo exportador",
+        "soja preço por tonelada CIF China",
+        "soja a granel navio 12500 toneladas FOB Santos",
+        "soja grau ração fornecedor a granel",
+        "comprar soja em grão a granel RFQ"
+      ],
+      "hreflang": [
+        {
+          "lang": "en",
+          "url": "https://www.franceaj.com/en/categories/soy-beans"
+        },
+        {
+          "lang": "pt-br",
+          "url": "https://www.franceaj.com/pt-br/categories/soy-beans"
+        },
+        {
+          "lang": "x-default",
+          "url": "https://www.franceaj.com/en/categories/soy-beans"
+        }
+      ],
+      "openGraph": {
+        "title": "Soja a Granel — Transgênica & Não Transgênica | France AJ",
+        "description": "Soja a granel para esmagamento e ração — soja transgênica do Brasil e Argentina, não transgênica/IP da Índia. Navio 12.500 MT+, FOB Santos / CIF. SGS ou equivalente sob consulta. Solicite cotação B2B.",
+        "image": "https://www.franceaj.com/images/categories/category-soy-bean.png",
+        "url": "https://www.franceaj.com/pt-br/categories/soy-beans",
+        "type": "website"
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "Soja a Granel — Transgênica & Não Transgênica | France AJ",
+        "description": "Soja a granel para esmagamento e ração — transgênica do Brasil e Argentina, não transgênica da Índia. Navio 12.500 MT+, FOB Santos / CIF. SGS ou equivalente sob consulta. Solicite cotação B2B.",
+        "image": "https://www.franceaj.com/images/categories/category-soy-bean.png"
+      }
+    }
+  },
+  {
+    "id": 7,
+    "title": "Cordeiro Congelado",
+    "slug": "frozen-lamb",
+    "description": "Cordeiro e carneiro congelado importado para atacado no Brasil — carcaça inteira, pernil (com e sem osso), paleta, carré francês, costeletas, ossobuco, cubos/iscas e carne moída. Importado do Uruguai, Nova Zelândia, Índia e Austrália, em containers reefer de 24–27T na condição CIF Santos/Paranaguá. Atende importadores, distribuidores e indústrias de alimentos em todo o Brasil.",
+    "image": "/images/categories/category-frozen-lamb.png",
+    "className": "!scale-125",
+    "totalProducts": 21,
+    "seo": {
+      "metaTitle": "Cordeiro Congelado Importado Halal | Fornecedor",
+      "description": "Cordeiro congelado importado a granel — carcaça, pernil, paleta e costeletas. Origem Uruguai/NZ, reefer 24–27T, CIF Santos. SGS sob consulta. Solicite cotação.",
+      "keywords": [
+        "cordeiro congelado importado fornecedor",
+        "importador de carne de cordeiro halal",
+        "distribuidor atacadista de cordeiro congelado",
+        "pernil de cordeiro congelado atacado importado",
+        "carré de cordeiro congelado importado fornecedor",
+        "carne de carneiro congelada importada fornecedor",
+        "carne ovina importada preço por tonelada CIF",
+        "comprar cordeiro congelado importado a granel"
+      ],
+      "hreflang": [
+        {
+          "lang": "en",
+          "url": "https://www.franceaj.com/en/categories/frozen-lamb"
+        },
+        {
+          "lang": "pt-br",
+          "url": "https://www.franceaj.com/pt-br/categories/frozen-lamb"
+        },
+        {
+          "lang": "x-default",
+          "url": "https://www.franceaj.com/en/categories/frozen-lamb"
+        }
+      ],
+      "openGraph": {
+        "title": "Cordeiro Congelado Importado Halal | France AJ",
+        "description": "Cordeiro e carneiro congelado importado — carcaça, pernil, paleta, carré e costeletas. Origem Uruguai, Nova Zelândia e Austrália, reefer 24–27T, CIF Santos. SGS ou equivalente e laudo de análise sob consulta. Solicite cotação B2B.",
+        "image": "https://www.franceaj.com/images/categories/category-frozen-lamb.png",
+        "url": "https://www.franceaj.com/pt-br/categories/frozen-lamb",
+        "type": "website"
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "Cordeiro Congelado Importado Halal | France AJ",
+        "description": "Cordeiro e carneiro congelado importado — origem Uruguai/NZ, reefer 24–27T, CIF Santos. SGS ou equivalente e laudo sob consulta. Solicite cotação B2B.",
+        "image": "https://www.franceaj.com/images/categories/category-frozen-lamb.png"
+      }
+    }
+  },
+  {
+    "id": 8,
+    "title": "Ração Animal",
+    "slug": "animal-feed",
+    "description": "Ração animal de alta nutrição, incluindo milho, farelo de soja e misturas de grãos para pecuária e avicultura.",
+    "image": "/images/products/animal-feed/animal-feed.png",
+    "totalProducts": 5,
+    "seo": {
+      "metaTitle": "Ração Animal Pellets Exportador | Aves e Aquicultura",
+      "description": "Pellets de alta proteína (aves, suínos, aquicultura). 12.500 MT+ navio graneleiro ou sacos 50kg. FOB/CIF. SGS e ISO certificados.",
+      "keywords": [
+        "exportador de ração animal a granel Brasil",
+        "pellet de ração avícola atacado B2B",
+        "fornecedor de ração para gado e ruminantes",
+        "ração para aquicultura exportação navio graneleiro",
+        "ração para suínos alta proteína FOB CIF",
+        "exportador de ração animal certificado SGS"
+      ],
+      "openGraph": {
+        "title": "Ração Animal a Granel - Exportação Atacadista B2B | France AJ",
+        "description": "Pellets de alta proteína para aves, gado, suínos e aquicultura. 12.500 MT+ navio graneleiro ou sacos 50kg, FOB/CIF. SGS e ISO. Solicite cotação B2B.",
+        "image": "/images/products/animal-feed/animal-feed.png",
+        "url": "https://www.franceaj.com/pt-br/categories/animal-feed",
+        "type": "website"
+      },
+      "twitter": {
+        "title": "Ração Animal a Granel - Exportação Atacadista B2B | France AJ",
+        "image": "/images/products/animal-feed/animal-feed.png"
+      }
+    }
+  },
+  {
+    "id": 9,
+    "title": "Arroz",
+    "slug": "rice",
+    "description": "Arroz importado a granel para o mercado brasileiro e atacado internacional — arroz basmati (1121, Pusa, sella), arroz jasmim (Hom Mali, Phka Rumduol), arroz branco grão longo/agulhinha IR64 (5%, 25% e 100% quebrado, branco e parboilizado), além de arroz integral e arroz para sushi. Origem asiática — Índia, Paquistão, Vietnã, Tailândia e Camboja — em sacas de 25kg/50kg ou carga de navio, nas condições FOB ou CIF Santos/Paranaguá. Atende importadores, distribuidores, beneficiadoras, indústrias alimentícias e licitações.",
+    "image": "/images/categories/rice-thumbnail-category-001.png",
+    "totalProducts": 39,
+    "seo": {
+      "metaTitle": "Arroz Importado a Granel | Basmati & Jasmim | France AJ",
+      "description": "Arroz importado a granel — basmati, jasmim, parboilizado e agulhinha (IR64, 5% quebrado). Origem asiática, navio ou sacas, CIF Santos. Solicite cotação B2B.",
+      "keywords": [
+        "arroz importado a granel fornecedor",
+        "arroz basmati importado atacado",
+        "arroz jasmim importado fornecedor",
+        "arroz agulhinha grão longo a granel",
+        "arroz branco 5% quebrado importação CIF",
+        "IR64 arroz importado exportador",
+        "arroz parboilizado importado a granel",
+        "arroz importado preço por tonelada CIF"
+      ],
+      "hreflang": [
+        {
+          "lang": "en",
+          "url": "https://www.franceaj.com/en/categories/rice"
+        },
+        {
+          "lang": "pt-br",
+          "url": "https://www.franceaj.com/pt-br/categories/rice"
+        },
+        {
+          "lang": "x-default",
+          "url": "https://www.franceaj.com/en/categories/rice"
+        }
+      ],
+      "openGraph": {
+        "title": "Arroz Importado a Granel — Basmati, Jasmim & Agulhinha | France AJ",
+        "description": "Arroz importado a granel de origem asiática — basmati, jasmim, parboilizado e agulhinha IR64 (5% e 25% quebrado). Navio ou sacas, CIF Santos/Paranaguá. SGS ou equivalente sob consulta. Solicite cotação B2B.",
+        "image": "https://www.franceaj.com/images/categories/rice-thumbnail-category-001.png",
+        "url": "https://www.franceaj.com/pt-br/categories/rice",
+        "type": "website"
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "Arroz Importado a Granel — Basmati, Jasmim & Agulhinha | France AJ",
+        "description": "Arroz importado a granel de origem asiática — basmati, jasmim, parboilizado e agulhinha IR64. Navio ou sacas, CIF Santos/Paranaguá. SGS ou equivalente sob consulta. Solicite cotação B2B.",
+        "image": "https://www.franceaj.com/images/categories/rice-thumbnail-category-001.png"
+      }
+    }
+  },
+  {
+    "id": 10,
+    "title": "Fertilizantes",
+    "slug": "fertilizers",
+    "description": "Fertilizantes importados a granel para distribuidoras agrícolas, formuladoras e grandes operações agropecuárias — ureia 46 granulada (46-0-0, baixo biureto), formulados NPK, MAP, DAP e cloreto de potássio (KCl). Importados de múltiplas origens — Rotterdam, Oriente Médio, Rússia e Norte da África — em sacas de 50kg PP/PE, big bags de 1000kg ou carga de navio, nas condições FOB ou CIF Paranaguá/Santos/Rio Grande. Atende importadores, formuladoras, cooperativas e distribuidores de insumos agrícolas.",
+    "image": "/images/categories/Fertilizers-category-banner.png",
+    "totalProducts": 2,
+    "seo": {
+      "metaTitle": "Fertilizantes Importados a Granel | Ureia & NPK | France AJ",
+      "description": "Fertilizantes importados a granel — ureia 46 granulada, NPK, MAP, DAP e cloreto de potássio. Navio ou sacas 50kg/1000kg, CIF Paranaguá. Solicite cotação B2B.",
+      "keywords": [
+        "ureia 46 importada a granel fornecedor",
+        "ureia granulada importação CIF Brasil",
+        "NPK importado a granel fornecedor",
+        "MAP DAP fosfatado importado atacado",
+        "cloreto de potássio KCl importado a granel",
+        "ureia 46 preço por tonelada CIF",
+        "fertilizantes importados CIF Paranaguá",
+        "comprar fertilizante a granel importação RFQ"
+      ],
+      "hreflang": [
+        {
+          "lang": "en",
+          "url": "https://www.franceaj.com/en/categories/fertilizers"
+        },
+        {
+          "lang": "pt-br",
+          "url": "https://www.franceaj.com/pt-br/categories/fertilizers"
+        },
+        {
+          "lang": "x-default",
+          "url": "https://www.franceaj.com/en/categories/fertilizers"
+        }
+      ],
+      "openGraph": {
+        "title": "Fertilizantes Importados a Granel — Ureia, NPK, MAP & Potássio | France AJ",
+        "description": "Fertilizantes importados a granel — ureia 46 granulada (46-0-0), NPK, MAP, DAP e cloreto de potássio. Navio ou sacas 50kg/1000kg, CIF Paranaguá/Santos. SGS ou equivalente sob consulta. Solicite cotação B2B.",
+        "image": "https://www.franceaj.com/images/categories/Fertilizers-category-banner.png",
+        "url": "https://www.franceaj.com/pt-br/categories/fertilizers",
+        "type": "website"
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "Fertilizantes Importados a Granel — Ureia, NPK, MAP & Potássio | France AJ",
+        "description": "Fertilizantes importados a granel — ureia 46 granulada, NPK, MAP, DAP e cloreto de potássio. Navio ou sacas, CIF Paranaguá/Santos. SGS ou equivalente sob consulta. Solicite cotação B2B.",
+        "image": "https://www.franceaj.com/images/categories/Fertilizers-category-banner.png"
+      }
+    }
+  },
+  {
+    "id": 11,
+    "title": "Castanhas e Adoçantes",
+    "slug": "nuts-sweeteners",
+    "description": "Castanhas e adoçantes a granel para importação e exportação B2B — castanha de caju nos calibres W240, W320 e W450, além de partidas, quebradas e adoçantes naturais. Originárias do Camboja, do Vietnã e de outras origens consolidadas, fornecidas em sacos selados a vácuo de 10–25kg, sacas de 25kg e embalagens personalizadas, nas condições FOB ou CIF, para importadores, distribuidores, indústrias de confeitaria e fabricantes de alimentos e bebidas em todo o mundo.",
+    "image": "/images/category/cashews-category.png",
+    "totalProducts": 1,
+    "seo": {
+      "metaTitle": "Fornecedor e Exportador de Castanhas e Adoçantes | B2B a Granel",
+      "description": "Castanhas e adoçantes naturais a granel para exportação B2B — castanha de caju W240, W320, W450 do Camboja e do Vietnã, além de adoçantes naturais. Selada a vácuo, a partir de 1 contêiner. Solicite uma cotação B2B.",
+      "keywords": [
+        "fornecedor de castanhas e adoçantes",
+        "exportador de castanha de caju a granel",
+        "castanha de caju W320 atacado",
+        "castanha de caju Camboja fornecedor",
+        "amêndoa de caju Vietnã a granel",
+        "fornecedor de adoçantes naturais B2B",
+        "castanha de caju selada a vácuo exportação",
+        "comprar castanhas e adoçantes por contêiner RFQ"
+      ],
+      "hreflang": [
+        {
+          "lang": "en",
+          "url": "https://www.franceaj.com/en/categories/nuts-sweeteners"
+        },
+        {
+          "lang": "pt-br",
+          "url": "https://www.franceaj.com/pt-br/categories/nuts-sweeteners"
+        },
+        {
+          "lang": "x-default",
+          "url": "https://www.franceaj.com/en/categories/nuts-sweeteners"
+        }
+      ],
+      "openGraph": {
+        "title": "Castanhas e Adoçantes Naturais a Granel — Exportação B2B | France AJ",
+        "description": "Castanha de caju e adoçantes naturais a granel. Sacos selados a vácuo de 10–25kg e embalagem personalizada, a partir de 1 contêiner, FOB / CIF mundial. Inspeção SGS ou equivalente e CoA mediante solicitação.",
+        "image": "/images/category/cashews-category.png",
+        "url": "https://www.franceaj.com/pt-br/categories/nuts-sweeteners",
+        "type": "website"
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "Castanhas e Adoçantes Naturais a Granel — Exportação B2B | France AJ",
+        "description": "Castanha de caju e adoçantes naturais a granel — FOB / CIF mundial. Inspeção SGS ou equivalente e CoA mediante solicitação. Solicite uma cotação B2B.",
+        "image": "/images/category/cashews-category.png"
+      }
+    }
+  }
+]

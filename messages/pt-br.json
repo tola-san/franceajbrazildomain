@@ -1,0 +1,759 @@
+{
+  "nav": {
+    "home": "Início",
+    "products": "Produtos",
+    "about_us": "Sobre nós",
+    "contact_us": "Contate-nos",
+    "privacy_policy": "Política de Privacidade",
+    "blog": "Blogs",
+    "resources": "Recursos",
+    "icumsa_sugar": "Açúcar ICUMSA",
+    "sugar": "Açúcar ICUMSA",
+    "frozen_chicken": "Frango Congelado",
+    "frozen_beef": "Carne Bovina Congelada",
+    "frozen_lamb": "Cordeiro Congelado",
+    "soy_beans": "Soja",
+    "oils": "Óleos",
+    "corn": "Milho",
+    "animal_feed": "Ração Animal",
+    "rice": "Arroz",
+    "fertilizers": "Fertilizantes",
+    "nuts_sweeteners": "Castanhas e Adoçantes",
+    "sulfur_granular": "Enxofre Granulado",
+    "urea_granular_prilled": "Ureia Granulada / Perolada",
+    "terms_conditions": "Termos e Condições",
+    "categories": "Categorias",
+    "menu": "Menu",
+    "close": "Fechar",
+    "open_search": "Abrir Busca",
+    "items_for_quotation": "Itens para Cotação",
+    "open_cart_items_for_quotation": "Abrir Itens do Carrinho para Cotação"
+  },
+  "banner": {
+    "title": "Fornecimento Global de Alimentos\npara Atacado B2B",
+    "description": "Fornecimento e exportação global de açúcar, frango congelado, óleos comestíveis, milho e ração animal para importadores, distribuidores e atacadistas em todo o mundo.",
+    "learn_more": "Saiba Mais",
+    "learn_more_aria": "Saiba mais sobre a France AJ Alimentaire and Food LTDA",
+    "explore_products": "Ver Produtos",
+    "explore_products_aria": "Ver o catálogo de produtos da France AJ Alimentaire and Food LTDA",
+    "contact_us": "Solicitar Cotação",
+    "image_alt": "Açúcar ICUMSA 45, óleo de cozinha, milho não transgênico, frango inteiro e pés de frango no atacado para exportação global"
+  },
+  "categories": {
+    "home": "Início",
+    "categories": "Categorias",
+    "our_categories": "Nossas Categorias",
+    "our_categories_desc": "Explore uma ampla gama de produtos em categorias projetadas para atender às suas necessidades. De carnes e grãos premium a óleos, condimentos e bebidas – encontre tudo o que você precisa para sua cozinha, negócio ou pedidos no atacado.",
+    "icumsa_sugar": "Açúcar ICUMSA",
+    "sugar": "Açúcar ICUMSA",
+    "frozen_chicken": "Frango Congelado",
+    "frozen_beef": "Carne Bovina Congelada",
+    "frozen_lamb": "Cordeiro Congelado",
+    "soy_beans": "Soja",
+    "oils": "Óleos",
+    "corn": "Milho",
+    "animal_feed": "Ração Animal",
+    "rice": "Arroz",
+    "fertilizers": "Fertilizantes",
+    "nuts_sweeteners": "Castanhas e Adoçantes",
+    "corns": "Milhos",
+    "quality_doorstep": "100% de qualidade à sua porta",
+    "meats": "Carnes",
+    "grains": "Grãos"
+  },
+  "home_product": {
+    "products": "Produtos",
+    "categories": "Categorias",
+    "title_one": "Descubra Grãos \n e Óleos Premium",
+    "description_one": "Temos o orgulho de oferecer açúcar brasileiro de alta qualidade, incluindo ICUMSA 45, ICUMSA 150 e açúcar VHP. Nossos produtos atendem a rigorosos padrões internacionais de qualidade e são provenientes diretamente das principais usinas do Brasil, garantindo pureza, consistência e confiabilidade para o seu negócio.",
+    "title_two": "Produtos Alimentícios Halal Certificados \n – A Granel e Grau de Exportação",
+    "description_two": "Grãos, Milho e Óleos Vegetais – Fornecimento Confiável para Aplicações Industriais, de Ração e Alimentícias",
+    "banner_sugar": "Açúcar de Alta Qualidade \n Padrões Globais",
+    "banner_meet": "Carnes Congeladas Halal \n de Alta Qualidade",
+    "banner_grains": "Grãos para \n Ração e Alimentos",
+    "banner_oils": "Óleos Vegetais \n Grau de Exportação",
+    "see_all": "Ver Todos",
+    "see_sugar_cta": "Ver Açúcar ICUMSA",
+    "see_meat_cta": "Ver Todas as Carnes Congeladas Halal",
+    "see_grain_cta": "Ver Todos os Grãos",
+    "see_oil_cta": "Ver Todos os Óleos",
+    "collection_frozen_sugar_meat_name": "Açúcar de exportação e frango congelado Halal",
+    "collection_frozen_sugar_meat_desc": "Do açúcar brasileiro refinado ICUMSA a cortes de aves premium certificados Halal, fornecemos commodities alimentares de alto volume e qualidade controlada, adaptadas para mercados de atacado B2B, importação e exportação. Consistência, conformidade e confiabilidade para o comércio global.",
+    "collection_grains_oils_name": "Suprimento global de grãos e óleos vegetais – exportação a granel",
+    "collection_grains_oils_desc": "A France AJ Alimentaire And Food LTDA fornece soja de qualidade para exportação, variedades de milho e óleos vegetais premium para as indústrias de alimentos e rações. Nossas commodities são provenientes de produtores confiáveis e entregues em grandes volumes com rigoroso controle de qualidade para apoiar atacadistas e distribuidores internacionais.",
+    "sub_sugar_title": "Padrões globais de açúcar de alta qualidade",
+    "sub_sugar_desc": "Temos o orgulho de oferecer açúcar brasileiro de alta qualidade, incluindo ICUMSA 45, ICUMSA 150 e açúcar VHP. Nossos produtos atendem a rigorosos padrões internacionais de qualidade e são provenientes diretamente das principais usinas do Brasil, garantindo pureza, consistência e confiabilidade para o seu negócio.",
+    "sub_meat_title": "Carnes congeladas Halal de alta qualidade",
+    "sub_meat_desc": "Explore nossa seleção premium de carnes congeladas certificadas Halal, provenientes de fornecedores confiáveis que aderem aos mais rigorosos padrões Halal. De carne bovina e ovina a aves, cada corte é processado e embalado para manter sua qualidade, frescor e valor nutricional, garantindo opções seguras e confiáveis para nossos clientes.",
+    "sub_grain_title": "Grãos para alimentação humana e animal",
+    "sub_grain_desc": "Explore nosso diversificado portfólio de grãos de alta qualidade, cuidadosamente selecionados para atender às necessidades específicas das indústrias de alimentação animal e humana. De milho e soja a trigo e arroz, fornecemos cadeias de suprimentos consistentes e confiáveis e produtos que aderem a rigorosos padrões de segurança e qualidade, apoiando seu negócio com commodities essenciais em que você pode confiar.",
+    "sub_oil_title": "Óleos vegetais de exportação",
+    "sub_oil_desc": "Descubra nossa seleção premium de óleos vegetais de alta qualidade, que atendem a rigorosos padrões internacionais de pureza e segurança. Provenientes dos melhores produtores, nossos óleos são ideais para diversas aplicações culinárias e industriais, garantindo qualidade consistente e suprimento confiável para nossos parceiros globais."
+  },
+  "highlight": {
+    "worldwide_distribution_title": "Distribuição Mundial",
+    "worldwide_distribution_description": "Entrega eficiente de açúcar para os principais mercados globais com logística confiável.",
+    "premium_quality_title": "Padrões de Qualidade Premium",
+    "premium_quality_description": "Garantimos que nossos produtos atendam a rigorosos padrões e certificações internacionais de segurança, qualidade e conformidade.",
+    "custom_packaging_title": "Embalagem Personalizada",
+    "custom_packaging_description": "Opções a granel ou prontas para varejo, adaptadas às suas necessidades de mercado.",
+    "stable_supply_pricing_title": "Fornecimento e Preços Estáveis",
+    "stable_supply_pricing_description": "Fornecimento estável com preços econômicos para parcerias de longo prazo."
+  },
+  "why_choose_us": {
+    "title": "Por que nos escolher?",
+    "description": "Na France AJ Alimentaire And Food LTDA, temos orgulho de ser um parceiro confiável na cadeia de suprimentos global de alimentos e commodities. Nossa experiência abrange diversos produtos, incluindo açúcar, soja, milho, ração animal de milho, óleo de girassol, óleo de soja, frango, carne bovina e cordeiro. Aqui estão seis razões principais para fazer parceria conosco:",
+    "reasons": [
+      {
+        "title": "Comprovada Experiência em Exportação Global",
+        "description": "Com anos de experiência no comércio internacional de açúcar, construímos uma forte reputação de confiabilidade, integridade e qualidade. Nossa extensa rede abrange Ásia, Europa, África e Américas — permitindo-nos atender a uma ampla gama de clientes com confiança e profissionalismo. Seja você um atacadista, distribuidor ou fabricante de alimentos, entendemos as necessidades do seu mercado e entregamos com precisão."
+      },
+      {
+        "title": "Fornecimento Direto de Produtores Certificados",
+        "description": "Trabalhamos diretamente com usinas e refinarias de açúcar confiáveis, garantindo controle total sobre a qualidade, preços e consistência. Ao eliminar intermediários, conseguimos oferecer taxas competitivas, mantendo total transparência em nosso processo de fornecimento. Nossos parceiros de fornecimento são verificados quanto à conformidade com os padrões globais de segurança e qualidade, e muitos possuem certificações como ISO 9001, HACCP e GMP."
+      },
+      {
+        "title": "Qualidade e Conformidade Inflexíveis",
+        "description": "A qualidade é a nossa principal promessa. Todos os nossos produtos de açúcar — seja cru, branco refinado ou de grau especial — passam por rigorosos procedimentos de controle de qualidade antes da exportação. Aderimos aos regulamentos internacionais de segurança alimentar e podemos fornecer resultados de testes de laboratório e certificações mediante solicitação. Nossa equipe de garantia de qualidade monitora cada etapa do processo, da produção à embalagem e entrega no porto."
+      },
+      {
+        "title": "Soluções de Embalagem e Logística Personalizadas",
+        "description": "Cada mercado é diferente, e o mesmo ocorre com suas necessidades de embalagem. É por isso que oferecemos opções flexíveis de embalagem para uma ampla gama de produtos, projetadas para atender às suas necessidades específicas. Nossa equipe de logística garante que cada remessa seja profissionalmente embalada, rotulada e entregue no prazo, independentemente da sua localização. De pequenos pacotes de varejo a contêineres a granel, lidamos com os detalhes para que você possa se concentrar no crescimento do seu negócio."
+      },
+      {
+        "title": "Entrega Confiável e Pontual – Sempre",
+        "description": "Atrasos podem custar negócios. É por isso que nos concentramos em construir uma cadeia de suprimentos robusta e responsiva. Das operações portuárias à documentação alfandegária, lidamos com as complexidades para que você não precise. Com rastreamento em tempo real, comunicação proativa e parceiros de frete confiáveis, garantimos entregas pontuais que mantêm suas operações funcionando sem problemas."
+      },
+      {
+        "title": "Parcerias de Longo Prazo em que Você Pode Confiar",
+        "description": "Não estamos aqui apenas para um único embarque — estamos aqui para construir relacionamentos duradouros. Nossos clientes valorizam nosso serviço consistente, comunicação transparente e disposição para ir além. Com opções de contrato flexíveis, suporte responsive e dedicação para ajudar seu negócio a crescer, nosso objetivo é ser seu parceiro de exportação de longo prazo."
+      }
+    ]
+  },
+  "our_certifications": {
+    "title": "Nossas Certificações \n Segurança Alimentar Global e Conformidade",
+    "description": "A France AJ Alimentaire And Food LTDA colabora orgulhosamente com fábricas e instalações certificadas que atendem a rigorosos padrões internacionais. Nossos produtos são suportados pelas seguintes certificações reconhecidas:",
+    "carousel_label": "Certificações e Logotipos de Parceiros",
+    "logos": {
+      "iso_22000": {
+        "alt": "ISO 22000 – Certificação de Sistemas de Gestão de Segurança de Alimentos",
+        "title": "ISO 22000 – Certificação de Sistemas de Gestão de Segurança de Alimentos"
+      },
+      "bonsucro": {
+        "alt": "Logotipo da Certificação Bonsucro de Cana-de-Açúcar Sustentável",
+        "title": "Certificação Bonsucro de Cana-de-Açúcar Sustentável"
+      },
+      "control_union": {
+        "alt": "Logotipo da Control Union Certifications",
+        "title": "Control Union Certifications – Serviços Globais de Inspeção e Certificação"
+      },
+      "enplus": {
+        "alt": "Logotipo da Certificação ENplus® de Qualidade de Pellets de Madeira",
+        "title": "ENplus® – Certificação de Qualidade de Pellets de Madeira"
+      },
+      "fda": {
+        "alt": "Logotipo de Aprovação da FDA – Food and Drug Administration dos EUA",
+        "title": "FDA dos EUA – Certificação da Food and Drug Administration"
+      },
+      "fssc_22000": {
+        "alt": "Logotipo da Certificação FSSC 22000 de Sistema de Segurança de Alimentos",
+        "title": "FSSC 22000 – Certificação de Sistema de Segurança de Alimentos"
+      },
+      "gacc": {
+        "alt": "Logotipo da Certificação GACC – Administração Geral das Alfândegas da China",
+        "title": "GACC – Certificação da Administração Geral das Alfândegas da China"
+      },
+      "halal_brazil": {
+        "alt": "Logotipo da Certificação HALAL – Centro Islâmico do Brasil",
+        "title": "Certificação HALAL – Centro Islâmico do Brasil"
+      },
+      "icc": {
+        "alt": "Logotipo da Câmara de Comércio Internacional (ICC)",
+        "title": "Certificação de Membro da Câmara de Comércio Internacional (ICC)"
+      },
+      "iso_9001_2015": {
+        "alt": "ISO 9001:2015 – Certificação de Sistemas de Gestão da Qualidade",
+        "title": "ISO 9001:2015 – Certificação de Sistemas de Gestão da Qualidade"
+      },
+      "iso_9001": {
+        "alt": "ISO 9001 – Certificação de Sistemas de Gestão da Qualidade",
+        "title": "ISO 9001 – Certificação de Sistemas de Gestão da Qualidade"
+      },
+      "kosher": {
+        "alt": "Logotipo da Certificação Kosher",
+        "title": "Certificação Kosher de Alimentos"
+      },
+      "accredited_body": {
+        "alt": "Logotipo de Organismo de Certificação Acreditado",
+        "title": "Logotipo de Organismo de Certificação Acreditado"
+      },
+      "nsf": {
+        "alt": "Logotipo da NSF – Certificação de Saúde Pública e Segurança",
+        "title": "NSF International – Certificação de Saúde Pública e Segurança"
+      },
+      "sedex": {
+        "alt": "Logotipo da Certificação SEDEX de Auditoria de Comércio Ético",
+        "title": "SEDEX – Certificação Supplier Ethical Data Exchange"
+      }
+    }
+  },
+  "newsletter": {
+    "title": "Conecte-se com \n Nossa Equipe de Exportação",
+    "description": "Tem dúvidas ou precisa de assistência com seus pedidos? Nossa equipe está pronta para apoiar seu negócio com soluções de fornecimento confiáveis e orientação especializada. Entre em contato conosco a qualquer momento — teremos prazer em discutir suas necessidades.",
+    "contact_us_now": "Contate-nos Agora"
+  },
+  "products": {
+    "products": "Produtos",
+    "unit": "Unidade",
+    "tons": "Toneladas",
+    "minimum_order": "Pedido Mínimo",
+    "minimum_order_value": "{count, plural, one {# Contêiner ou mais} other {# Contêineres ou mais}}"
+  },
+  "filter": {
+    "sort_by": "Ordenar Por",
+    "default": "Padrão",
+    "popularity": "Popularidade",
+    "average_rating": "Avaliação Média",
+    "latest": "Mais Recente",
+    "unit_low_to_hight": "Unidade: Preço Baixo para Alto",
+    "unit_hight_to_low": "Unidade: Preço Alto para Baixo",
+    "shows": "Mostrar"
+  },
+  "about_page": {
+    "header_title": "Sobre Nós",
+    "header_desc": "A France AJ Alimentaire And Food LTDA entrega produtos alimentícios de alta qualidade do Brasil para \n mercados globais — confiada por importadores, distribuidores e profissionais de foodservice em todo o mundo.",
+    "about_ecoland_top": "Sobre a France AJ",
+    "about_ecoland_header": "Entregando Qualidade do Brasil para o Mundo",
+    "about_ecoland_header_desc": "Na France AJ Alimentaire And Food LTDA, temos orgulho de ser um elo confiável entre a rica produção agrícola do Brasil e os mercados globais na Ásia, África, Europa e Oriente Médio. Somos especializados na exportação de commodities alimentícias de alta qualidade — incluindo grãos, óleos, açúcar e carnes congeladas — que atendem aos mais altos padrões internacionais de segurança, consistência e frescor. \n\n Com mais de três décadas de experiência na indústria de comércio de alimentos, nossa equipe compreende as complexidades do fornecimento global, conformidade e logística. Aproveitamos essa profunda experiência para garantir que cada remessa seja entregue de forma eficiente, no prazo e em perfeitas condições — seja um único contêiner ou um contrato de fornecimento recorrente em larga escala. \n\n Como uma orgulhosa subsidiária do France AJ Group, nossa divisão no Brasil está comprometida em manter o legado de excelência do grupo. Nossa missão é simples, mas poderosa: Fornecer aos parceiros globais produtos alimentícios que não sejam apenas seguros e com preços competitivos, mas também de origem ética e entregues de forma sustentável. \n\n Dos campos agrícolas no Brasil aos armazéns em todos os continentes, a France AJ Alimentaire And Food LTDA é um nome em que você pode confiar — enraizado na qualidade, impulsionado por valores e focado no sucesso do seu negócio.",
+    "employee": "Funcionários",
+    "employee_desc": "Uma equipe qualificada por trás de mais de 200 projetos de comércio global de alimentos bem-sucedidos.",
+    "export_country": "Países Exportados",
+    "export_country_desc": "Fornecendo produtos alimentícios de qualidade para mais de 50 países em todo o mundo.",
+    "global_offices": "Escritórios Globais",
+    "global_offices_desc": "Presente em mais de 10 locais, atendendo a mais de 100 parceiros confiáveis globalmente.",
+    "our_cor_offerings": "Nossas Principais Ofertas",
+    "our_cor_offerings_desc": " Oferecemos um amplo portfólio de produtos alimentícios essenciais adaptados às necessidades de importadores, distribuidores e fabricantes em todo o mundo:",
+    "explore_more": "Explorar Mais",
+    "core_products": {
+      "alt_one": "Carne bovina e frango HALAL congelados — France AJ Alimentaire And Food LTDA | Atacado B2B",
+      "product_one": "Proteínas Congeladas: Frango, Carne Bovina e Cordeiro",
+      "product_one_desc": "Nossas carnes congeladas de alta qualidade são provenientes de produtores brasileiros certificados, oferecendo excelência e conformidade halal para mercados internacionais.",
+      "alt_two": "Fornecedor de açúcar refinado ICUMSA 45 e 150 — France AJ Alimentaire And Food LTDA | Exportação e importação de alimentos B2B",
+      "product_two": "Açúcar: ICUMSA 45, 150, 600–1200",
+      "product_two_desc": "Fornecemos açúcar brasileiro de alta qualidade, em formas refinadas e brutas, para atender às diversas necessidades do mercado — do uso industrial ao varejo.",
+      "alt_three": "Milho amarelo (para alimentação humana e animal) — France AJ Alimentaire And Food LTDA – exportador global para B2B",
+      "product_three": "Milho: OGM, Não-OGM e para Ração",
+      "product_three_desc": "Nossas variedades de milho incluem milho amarelo e branco, OGM e Não-OGM, de alta qualidade, adequados para consumo humano e para ração animal.",
+      "alt_four": "Soja não-OGM para trituração e alimentação — France AJ Alimentaire And Food LTDA | Importação e exportação B2B",
+      "product_four": "Soja: OGM, Não-OGM e para Ração",
+      "product_four_desc": "Oferecemos soja de alta qualidade das férteis regiões do Brasil, disponível para consumo humano, extração de óleo e para ração animal.",
+      "alt_five": "Óleo de girassol refinado (óleos comestíveis) — France AJ Alimentaire And Food LTDA – exportador atacadista B2B",
+      "product_five": "Óleos Vegetais: Soja e Girassol (Bruto e Refinado)",
+      "product_five_desc": "Escolha entre óleos de soja e girassol, brutos ou refinados — ideais para culinária, fabricação e necessidades industriais.",
+      "alt_six": "Variedades premium de arroz — France AJ Alimentaire And Food LTDA | Exportação atacadista B2B",
+      "product_six": "Arroz: Branco, Parboilizado, Jasmim e Basmati",
+      "product_six_desc": "Fornecemos uma ampla gama de variedades de arroz premium — incluindo arroz branco de grão longo, arroz parboilizado, jasmim e basmati — provenientes de moinhos certificados, adequados para compradores no varejo, food service e industrial."
+    },
+    "contact_us_title": "Seu Parceiro de Exportação Confiável para Alimentos e Commodities",
+    "contact_us": "Contate-nos",
+    "header_one": "Alcance Global, Expertise Local",
+    "header_one_desc": "Com raízes profundas no Brasil e mais de 30 anos no comércio internacional, combinamos a força do fornecimento local com o know-how da logística global para realizar embarques transfronteiriços suaves e confiáveis.",
+    "header_two": "Parcerias Confiáveis que Duram",
+    "header_two_desc": "Construímos relacionamentos de longo prazo por meio de integridade e transparência. Desde sua primeira consulta até a entrega final, nossa equipe está comprometida com comunicação clara e suporte personalizado.",
+    "header_three": "Qualidade Inflexível do Produto",
+    "header_three_desc": "Todos os produtos são fornecidos por fornecedores certificados e passam por rigoroso controle de qualidade antes da exportação — incluindo testes laboratoriais, inspeção e documentação completa para atender aos padrões internacionais de segurança alimentar.",
+    "header_four": "Soluções Personalizadas e Competitivas",
+    "header_four_desc": "Oferecemos opções de volume flexíveis e preços competitivos adaptados às suas necessidades de mercado, ajudando você a se manter à frente em uma indústria global de alimentos dinâmica.",
+    "legal_info_title": "Informações Legais da Empresa",
+    "legal_info_subtitle": "Dados Empresariais Registrados e Verificáveis",
+    "legal_name_label": "Razão Social",
+    "legal_name_value": "France AJ Alimentaire And Food LTDA",
+    "country_label": "País de Registro",
+    "country_value": "Brasil",
+    "address_label": "Endereço Registrado",
+    "address_value": "São Paulo, SP, Brasil",
+    "business_activity_label": "Atividade Empresarial",
+    "business_activity_value": "Exportação e Importação Atacadista de Commodities Alimentícias — Grãos, Óleos Vegetais, Açúcar, Proteínas Congeladas (HALAL)",
+    "legal_entity_label": "Tipo de Entidade Legal",
+    "legal_entity_value": "LTDA — Sociedade de Responsabilidade Limitada Brasileira",
+    "subsidiary_label": "Grupo Controlador",
+    "subsidiary_value": "France AJ Group",
+    "contact_hours_label": "Horário de Funcionamento",
+    "contact_hours_value": "Segunda – Sábado, 08:00 – 20:00 (BRT)",
+    "languages_label": "Idiomas",
+    "languages_value": "Inglês, Português",
+    "how_we_work_chip": "Processo",
+    "how_we_work_title": "Como Trabalhamos",
+    "how_we_work_subtitle": "Nosso processo de negociação de ponta a ponta é transparente, estruturado e projetado para oferecer total confiança aos compradores — da primeira consulta até a entrega final.",
+    "step_1_title": "Comprador Envia RFQ / LOI",
+    "step_1_desc": "O comprador envia uma Solicitação de Cotação (RFQ) ou Carta de Intenção (LOI) especificando o produto, quantidade, destino e condições preferidas.",
+    "step_2_title": "France AJ Analisa a Solicitação",
+    "step_2_desc": "Nossa equipe de comércio analisa a consulta, verifica a disponibilidade do produto e avalia os requisitos do comprador antes de prosseguir.",
+    "step_3_title": "Cotação / FCO Emitida",
+    "step_3_desc": "Emitimos uma Cotação completa e firme ou Oferta Corporativa Plena (FCO) detalhando especificações do produto, preços, condições de pagamento e entrega.",
+    "step_4_title": "Comprador Confirma",
+    "step_4_desc": "O comprador revisa a FCO e envia confirmação de aceite ou solicita nova negociação. Uma vez acordado, o processo avança.",
+    "step_5_title": "Contrato / SPA Assinado",
+    "step_5_desc": "Um Contrato de Compra e Venda (SPA) formal é redigido e assinado por ambas as partes, detalhando todos os termos e obrigações comerciais.",
+    "step_6_title": "Instrumento de Pagamento",
+    "step_6_desc": "O comprador providencia o instrumento de pagamento acordado — como Carta de Crédito (LC), Transferência Bancária (TT) ou outro método mutuamente aceito.",
+    "step_7_title": "Inspeção",
+    "step_7_desc": "Os produtos passam por inspeção pré-embarque por agência independente e reconhecida internacionalmente para verificar qualidade, quantidade e especificações.",
+    "step_8_title": "Embarque",
+    "step_8_desc": "As mercadorias são carregadas e despachadas conforme os Incoterms acordados (FOB, CIF, etc.). Logística e frete são gerenciados do porto ao destino.",
+    "step_9_title": "Documentos de Embarque",
+    "step_9_desc": "A documentação completa de embarque é preparada e liberada — incluindo Conhecimento de Embarque, Certificado de Origem, Certificado Fitossanitário / de Saúde, Fatura Comercial, Lista de Embalagem e Certificado HALAL quando aplicável.",
+    "payment_terms_title": "Termos de Pagamento e Comércio",
+    "payment_terms_subtitle": "Suportamos termos de pagamento e entrega reconhecidos internacionalmente para oferecer flexibilidade e segurança aos compradores em cada etapa da transação.",
+    "term_fob_label": "FOB — Free On Board",
+    "term_fob_desc": "O vendedor entrega os produtos a bordo do navio no porto de embarque designado. O risco é transferido ao comprador quando os produtos estão a bordo. Frete e seguro a partir desse ponto são responsabilidade do comprador.",
+    "term_cif_label": "CIF — Custo, Seguro e Frete",
+    "term_cif_desc": "O vendedor cobre o custo das mercadorias, seguro marítimo e frete até o porto de destino designado. O risco é transferido ao comprador no embarque, mas o vendedor organiza e paga o transporte.",
+    "term_cnf_label": "CNF / CFR — Custo e Frete",
+    "term_cnf_desc": "O vendedor é responsável pelo custo das mercadorias e pelo frete marítimo até o porto de destino. O seguro é contratado pelo comprador. Semelhante ao CIF, mas sem o seguro coberto pelo vendedor.",
+    "term_dlc_label": "DLC MT700 — Carta de Crédito Documentária",
+    "term_dlc_desc": "Uma garantia de pagamento emitida por banco (SWIFT MT700) que assegura o recebimento pelo vendedor mediante apresentação de documentos de embarque em conformidade. Amplamente utilizada no comércio internacional de commodities.",
+    "term_sblc_label": "SBLC MT760 — Carta de Crédito Standby",
+    "term_sblc_desc": "Uma garantia standby bancária (SWIFT MT760) ativada somente se o comprador não cumprir suas obrigações de pagamento. Aplicada quando contratualmente exigido e acordado por ambas as partes.",
+    "term_final_label": "Condições Finais Conforme Contrato",
+    "term_final_desc": "Todos os termos comerciais, instrumentos de pagamento, cronogramas de entrega, direitos de inspeção e mecanismos de resolução de disputas são claramente definidos no Contrato de Compra e Venda (SPA) assinado.",
+    "company_facts_chip": "Dados da Empresa",
+    "company_facts_title": "A France AJ em Números",
+    "company_facts_subtitle": "Os números abaixo refletem três décadas no comércio internacional de alimentos — uma equipe especializada, uma rede de escritórios globais e embarques que chegam a importadores, distribuidores e indústrias em mais de 50 países.",
+    "product_categories_chip": "Categorias de Produtos",
+    "who_we_serve_chip": "Quem Atendemos",
+    "who_we_serve_title": "Feito para Compradores B2B Exigentes",
+    "who_we_serve_subtitle": "De um único contêiner de teste a contratos mensais recorrentes, atendemos compradores em todos os níveis da cadeia internacional de alimentos.",
+    "buyer_1_title": "Importadores e Distribuidores",
+    "buyer_1_desc": "Importadores nacionais e regionais que precisam de volumes constantes, documentação correta e cronogramas de embarque confiáveis.",
+    "buyer_2_title": "Atacadistas e Traders de Commodities",
+    "buyer_2_desc": "Traders em busca de ofertas competitivas FOB e CIF de grãos, açúcar, óleos vegetais e proteínas congeladas para revenda em seus mercados.",
+    "buyer_3_title": "Indústrias e Processadores de Alimentos",
+    "buyer_3_desc": "Plantas de processamento que exigem matéria-prima em especificação fixa — grade, umidade, ICUMSA, teor de proteína e formato de embalagem.",
+    "buyer_4_title": "Redes de Varejo e Supermercados",
+    "buyer_4_desc": "Grupos de varejo e programas de marca própria que precisam de embalagem pronta para prateleira, apoio em rotulagem e reposição confiável.",
+    "buyer_5_title": "HORECA e Foodservice",
+    "buyer_5_desc": "Hotéis, restaurantes, empresas de catering e distribuidores de foodservice que compram proteínas congeladas HALAL, arroz e óleos vegetais.",
+    "buyer_6_title": "Compradores Governamentais e Institucionais",
+    "buyer_6_desc": "Compradores por licitação e institucionais que exigem documentação completa de conformidade, direito de inspeção e papelada pronta para auditoria.",
+    "sourcing_chip": "Originação Global",
+    "sourcing_title": "Uma Rede de Originação com Raízes no Brasil",
+    "sourcing_desc": "O Brasil é nossa origem principal — um dos maiores produtores mundiais de açúcar, soja, milho, aves e carne bovina. Trabalhamos diretamente com plantas registradas no SIF, usinas licenciadas, refinarias e cooperativas, o que mantém nossos preços competitivos e nosso fornecimento estável ao longo da safra. \n\n Quando a especificação ou o orçamento do comprador é melhor atendido por outra origem, nossa rede multi-origem permite apresentar alternativas sem abrir mão de certificação, inspeção ou condições de entrega. Toda origem que oferecemos segue o mesmo padrão documental e o mesmo processo de inspeção pré-embarque.",
+    "sourcing_image_alt": "Rede de originação de grãos no Brasil — France AJ Alimentaire And Food LTDA | exportação de milho, soja e açúcar a granel",
+    "markets_title": "Mercados que Atendemos",
+    "markets_subtitle": "Os embarques partem de portos brasileiros sob condições FOB, CIF e CFR para compradores em quatro continentes — cada remessa inspecionada, documentada e certificada para o mercado de destino.",
+    "market_1_title": "Ásia e Sudeste Asiático",
+    "market_1_desc": "Grãos a granel, arroz, açúcar e aves congeladas para importadores e processadores de toda a região.",
+    "market_2_title": "Oriente Médio e Golfo",
+    "market_3_title": "África",
+    "market_4_title": "Europa e América Latina",
+    "market_2_desc": "Proteínas congeladas com certificação HALAL e açúcar ICUMSA 45, embarcados com a certificação exigida por cada mercado.",
+    "market_3_desc": "Arroz, açúcar, óleos vegetais e aves em grandes volumes, fornecidos por licitação e contratos de longo prazo.",
+    "market_4_desc": "Grãos não transgênicos, óleos refinados e lotes especiais para indústrias com padrões rigorosos de conformidade.",
+    "mission_chip": "Missão e Valores",
+    "mission_title": "No Que Acreditamos",
+    "mission_label": "Nossa Missão",
+    "mission_statement": "Fornecer a parceiros globais produtos alimentícios que sejam não apenas seguros e com preço competitivo, mas também de origem ética e entrega sustentável.",
+    "vision_label": "Nossa Visão",
+    "vision_statement": "Ser a ponte mais confiável entre a agricultura brasileira e os compradores de alimentos do mundo — medida não apenas por tonelagem, mas por quantos parceiros retornam contrato após contrato.",
+    "value_1_title": "Integridade e Transparência",
+    "value_1_desc": "Ofertas claras, prazos honestos e nenhum custo oculto. Se um embarque atrasar, você saberá por nós primeiro.",
+    "value_2_title": "Qualidade Antes do Volume",
+    "value_2_desc": "Preferimos recusar um pedido a embarcar produto que não atenda à especificação contratada.",
+    "value_3_title": "Confiabilidade e Pontualidade",
+    "value_3_desc": "Booking, carregamento e documentação são conduzidos no prazo acordado para que seus próprios compromissos sejam mantidos.",
+    "value_4_title": "Originação Ética e Sustentável",
+    "value_4_desc": "Compramos de produtores que atendem a padrões reconhecidos de trabalho, meio ambiente e bem-estar animal.",
+    "value_5_title": "Parceria de Longo Prazo",
+    "value_5_desc": "Nosso negócio se sustenta em contratos recorrentes, não em negócios pontuais — por isso precificamos e atendemos pensando no longo prazo.",
+    "value_6_title": "Conformidade Sem Atalhos",
+    "value_6_desc": "Todo documento é autêntico, verificável e emitido pela autoridade competente do mercado de destino.",
+    "qa_chip": "Garantia de Qualidade",
+    "qa_title": "Garantia de Qualidade e Segurança Alimentar",
+    "qa_subtitle": "Todo embarque passa pelos mesmos controles antes de deixar a origem — independentemente do volume ou do destino.",
+    "qa_1_title": "Plantas de Origem Certificadas",
+    "qa_1_desc": "Compramos apenas de plantas, usinas e refinarias com SIF, HALAL, ISO 22000, FSSC 22000 ou aprovação equivalente válida para o mercado de destino.",
+    "qa_2_title": "Inspeção Pré-Embarque Independente",
+    "qa_2_desc": "Qualidade, quantidade e embalagem são verificadas no carregamento por agência de reconhecimento internacional como SGS ou Control Union — ou outra indicada pelo comprador.",
+    "qa_3_title": "Análise Laboratorial e COA",
+    "qa_3_desc": "Cada lote é analisado conforme a especificação contratada e liberado com Certificado de Análise cobrindo todos os parâmetros acordados.",
+    "qa_4_title": "Cadeia de Frio e Armazenagem",
+    "qa_4_desc": "Proteínas congeladas são armazenadas e embarcadas em temperatura controlada da planta ao navio, com registro dos ajustes do reefer durante toda a viagem.",
+    "qa_5_title": "Documentação Completa de Exportação",
+    "qa_5_desc": "Bill of Lading, Certificado de Origem, Certificado Fitossanitário ou Sanitário, Certificado HALAL, Fatura Comercial e Packing List emitidos em todo embarque.",
+    "qa_6_title": "Rastreabilidade Total",
+    "qa_6_desc": "Cada remessa é rastreável até a planta produtora, o número do lote e a data de produção — essencial para desembaraço aduaneiro e eventual recall.",
+    "why_partner_chip": "Por Que Ser Nosso Parceiro",
+    "why_partner_title": "Por Que os Compradores Escolhem a France AJ",
+    "final_cta_chip": "Comece Agora",
+    "final_cta_desc": "Envie-nos o produto, a quantidade, o porto de destino e o Incoterm desejado. Nossa mesa de negociação responde com cotação firme ou Full Corporate Offer — normalmente em um dia útil.",
+    "view_products": "Ver Nossos Produtos"
+  },
+  "contact_page": {
+    "contact_us": "Contate-nos",
+    "home": "Início",
+    "get_in_touch": "Entre em Contato",
+    "get_in_touch_desc": "Conecte-se conosco para dúvidas, pedidos ou discussões de parceria. Valorizamos seu negócio e esperamos trabalhar juntos.",
+    "address": "Endereço",
+    "phone_number": "Número de Telefone",
+    "email_address": "Endereço de Email"
+  },
+  "form": {
+    "phone_number": "Número de Telefone",
+    "phone_number_required": "Número de telefone é obrigatório",
+    "phone_number_required_pattern": "Apenas dígitos, espaços e hifens permitidos",
+    "company_name": "Nome da Empresa",
+    "company_name_placeholder": "Digite o nome da empresa",
+    "company_name_err_ms": "Por favor, digite um nome de empresa válido",
+    "company_name_required": "Nome da empresa é obrigatório",
+    "region": "Região",
+    "region_placeholder": "Selecione uma região",
+    "region_err_ms": "Por favor, digite uma região válida",
+    "region_required": "Região é obrigatória",
+    "your_name": "Seu Nome",
+    "your_name_placeholder": "Digite seu nome",
+    "your_name_err_ms": "Por favor, digite um nome válido",
+    "your_name_required": "Seu nome é obrigatório",
+    "your_name_min_length": "O nome de usuário deve ter pelo menos 2 caracteres",
+    "position": "Cargo",
+    "position_placeholder": "Digite um cargo",
+    "position_err_ms": "Por favor, digite um cargo válido",
+    "position_required": "Cargo é obrigatório",
+    "email": "Email",
+    "email_placeholder": "Digite um email",
+    "email_err_ms": "Por favor, digite um email válido",
+    "email_required": "Email é obrigatório",
+    "email_required_pattern": "Formato de email inválido",
+    "subject": "Assunto",
+    "subject_placeholder": "Digite um assunto",
+    "subject_err_ms": "Por favor, digite um assunto válido",
+    "subject_required": "Assunto é obrigatório",
+    "message": "Mensagem",
+    "message_placeholder": "Digite uma mensagem",
+    "message_err_ms": "Por favor, digite uma mensagem válida",
+    "message_required": "Mensagem é obrigatória",
+    "destination_port": "Porto de Destino",
+    "destination_port_placeholder": "Digite o porto de destino",
+    "destination_port_required": "Porto de destino é obrigatório",
+    "destination_port_err_ms": "Por favor, digite um porto de destino válido",
+    "incoterms": "Incoterms",
+    "payment_terms_required": "Por favor, selecione uma forma de pagamento",
+    "incoterms_required": "Por favor, selecione um Incoterm",
+    "send_message": "Enviar Mensagem",
+    "reset": "Redefinir",
+    "sending": "Enviando..."
+  },
+  "cart": {
+    "item_for_quotation": "Itens para Cotação",
+    "container": "contêiner",
+    "tons": "toneladas",
+    "unit": "Unidade",
+    "request_quotation": "Solicitar Cotação"
+  },
+  "quotation_page": {
+    "quotations_title": "Solicitar Cotação em Atacado",
+    "home": "Início",
+    "company_info": "Informações da Empresa",
+    "payment_terms": "Termos de Pagamento",
+    "shipping_details": "Detalhes de Envio",
+    "contact_message": "Mensagem de Contato",
+    "product_details": "Detalhes do Produto",
+    "sending": "Enviando...",
+    "send_request_quotation": "Enviar Solicitação",
+    "container": "contêiner",
+    "tons": "toneladas",
+    "unit": "Unidade"
+  },
+  "footer": {
+    "title": "Termos e Condições de Serviço – France AJ Alimentaire And Food LTDA",
+    "description": "Leia os Termos e Condições de Serviço da France AJ Alimentaire And Food LTDA. Estes termos regem o uso do nosso site e serviços de exportação no atacado B2B.",
+    "breadcrumb": "Termos e Condições",
+    "categories_aria_label": "Categorias",
+    "company_aria_label": "Empresa",
+    "legal_aria_label": "Legal",
+    "follow_us_aria_label": "Siga-nos",
+    "intro": "A France AJ Alimentaire And Food LTDA é uma exportadora atacadista B2B sediada em São Paulo, especializada em alimentos brasileiros, produtos agrícolas e operações de exportação com origem no Brasil — carnes congeladas com certificação HALAL, açúcar ICUMSA, arroz, grãos e óleos vegetais, enviados de plantas registradas no SIF para o mundo todo.",
+    "company": {
+      "title": "EMPRESA",
+      "list": {
+        "home": "Início",
+        "blogs": "Blogs",
+        "about_us": "Sobre nós",
+        "products": "Produtos"
+      }
+    },
+    "categories": {
+      "title": "CATEGORIAS",
+      "list": {
+        "icumsa_sugar": "Açúcar ICUMSA",
+        "frozen_chicken": "Frango Congelado",
+        "frozen_beef": "Carne Bovina Congelada",
+        "frozen_lamb": "Carne de Cordeiro Congelada",
+        "soy_beans": "Soja",
+        "oils": "Óleos",
+        "corn": "Milho",
+        "rice": "Arroz"
+      }
+    },
+    "legal": {
+      "title": "LEGAL",
+      "list": {
+        "about_us": "Sobre nós",
+        "contact_us": "Contato",
+        "privacy_policy": "Política de Privacidade",
+        "terms_conditions": "Termos e Condições"
+      }
+    },
+    "contact": {
+      "title": "CONTATO",
+      "aria_label": "Informações de contato",
+      "address_label": "Endereço",
+      "phone_label": "Ligar para a France AJ Alimentaire no (+55) 31 91014-3894",
+      "email_label": "Enviar e-mail para a France AJ Alimentaire em info@franceajalimentaireandfood.com.br",
+      "address": "Eriberto Barros Cajazeiras, Nº 561, Bairro: Vila do Castelo, São Paulo /SP - Brasil - CEP: 04.438-090"
+    },
+    "follow_us_heading": "SIGA-NOS",
+    "logo_aria_label": "France AJ Alimentaire And Food LTDA Início",
+    "social": {
+      "facebook": "Conta do Facebook para France AJ Alimentaire And Food LTDA and Food Export & import LTDA",
+      "x": "Conta do X para France AJ Alimentaire And Food LTDA and Food Export & import LTDA",
+      "whatsapp": "Conta do Whatsapp para France AJ Alimentaire And Food LTDA and Food Export & import LTDA",
+      "linkedin": "Conta do LinkedinIn para France AJ Alimentaire And Food LTDA and Food Export & import LTDA",
+      "youtube": "Conta do Youtube para France AJ Alimentaire And Food LTDA and Food Export & import LTDA",
+      "instagram": "Conta do Instagram para France AJ Alimentaire And Food LTDA and Food Export & import LTDA"
+    },
+    "copyright": "DIREITOS AUTORAIS © 2023 FRANCE AJ ALIMENTAIRE AND FOOD EXPORT AND IMPORT LTDA. TODOS OS DIREITOS RESERVADOS.",
+    "logo_alt": "Marca France AJ Group — France AJ Alimentaire And Food LTDA (Food Export & Import LTDA)",
+    "export_bar": {
+      "eyebrow": "Exportadora Brasileira Oficial",
+      "tagline": "Comércio Global",
+      "heading": "Exportação Premium de Alimentos e Commodities",
+      "quote_cta": "Solicitar Cotação B2B",
+      "whatsapp_cta": "Atendimento WhatsApp",
+      "whatsapp_message": "Olá, gostaria de entrar em contato com a France AJ Alimentaire para consultas de exportação B2B."
+    },
+    "credentials": {
+      "aria_label": "Credenciais e certificações da empresa",
+      "cnpj": "CNPJ: 52.469.135/0001-02",
+      "halal": "Certificado HALAL",
+      "sif": "Inspecionado pelo SIF"
+    }
+  },
+  "termsAndConditions": {
+    "hero": {
+      "label": "Informações Legais",
+      "title": "Termos e Condições",
+      "description": "Bem-vindo ao site da France AJ Alimentaire And Food LTDA (\"a Empresa,\" \"nós,\" ou \"nosso\"). Estes Termos e Condições de Serviço (\"Termos\") regem o uso do nosso site e quaisquer serviços, produtos ou conteúdo fornecidos por nós. Ao acessar ou usar nosso site, você concorda em se vincular a estes Termos e à nossa Política de Privacidade. Se você não concorda com estes Termos, por favor, não use nosso site.",
+      "buttonTitle": "Estamos aqui para ajudar!"
+    }
+  },
+  "privacyPolicy": {
+    "hero": {
+      "label": "Privacidade e Proteção de Dados",
+      "title": "Introdução às Nossas Práticas de Privacidade",
+      "description": "Na France AJ Alimentaire And Food LTDA And Food Export & Import, sua privacidade e confiança são nossas principais prioridades. Estamos comprometidos em proteger suas informações pessoais, garantindo a transparência em como coletamos, usamos e armazenamos seus dados. Nossa Política de Privacidade descreve as medidas que tomamos para proteger suas informações, os direitos que você tem como usuário e as escolhas que você pode fazer para controlar seus dados. Leia nossa política para saber como mantemos os mais altos padrões de segurança e manuseio ético de dados.",
+      "buttonTitle": "Fale conosco"
+    }
+  },
+  "resources_page": {
+    "title": "Recursos",
+    "description": "Baixe nossa documentação de exportação — fichas técnicas de produtos, formulários ICPO e certificados — preparada para importadores, distribuidores e compradores industriais em todo o mundo.",
+    "home": "Início",
+    "meta_title": "Recursos | Documentos de Exportação e Fichas Técnicas | France AJ",
+    "meta_description": "Baixe os documentos de exportação da France AJ: fichas técnicas, formulários ICPO e certificados de carne Halal congelada, açúcar ICUMSA, grãos, óleos e fertilizantes.",
+    "preview": "Visualizar",
+    "download": "Baixar",
+    "open_new_tab": "Abrir em nova aba",
+    "close": "Fechar",
+    "empty": "Nenhum documento disponível no momento. Entre em contato com nossa equipe comercial para solicitar os arquivos."
+  },
+  "metadata": {
+    "home": {
+      "title": "France AJ | Exportador B2B Global: Carnes Halal, Açúcar ICUMSA 45 e Grãos",
+      "description": "Exportador B2B de carnes Halal (SIF), açúcar ICUMSA 45, grãos e óleos. Certificação SGS/ISO. Logística FOB/CIF, navios graneleiros e cotas mensais estáveis em MT.",
+      "keywords": "exportador de commodities alimentícias, fornecedor B2B carne Halal, açúcar ICUMSA 45 Brasil, exportação soja e milho a granel, óleos vegetais flexitank, comércio global SGS, France AJ Alimentaire, frango congelado SIF, navio graneleiro agrícola",
+      "ogImageAlt": "Carne congelada Halal, açúcar ICUMSA 45 e grãos para exportação B2B a granel | France AJ Alimentaire and Food Import & Export LTDA"
+    },
+    "products": {
+      "title": "Commodities Alimentícias e Carnes Halal | Catálogo B2B France AJ",
+      "description": "Compre frango, carne bovina e ovina Halal (SIF), açúcar ICUMSA 45 e grãos não-OGM. Envio em Contêiner Reefer 24-27MT e Navio Graneleiro. Solicite RFQ.",
+      "keywords": "catálogo carnes congeladas SIF, açúcar ICUMSA 45 atacado, óleo de soja flexitank, exportador carne bovina Halal, commodities B2B, France AJ produtos",
+      "ogTitle": "Commodities Alimentícias Premium | Certificação SIF e Halal | France AJ",
+      "ogDescription": "Explore nosso catálogo global de carnes Halal, açúcar ICUMSA 45 e grãos agrícolas. Inspecionado pela SGS, envio FOB/CIF mundial."
+    },
+    "about": {
+      "title": "Sobre a France AJ | Exportadora de Carne Halal e Açúcar",
+      "description": "A France AJ Alimentaire And Food LTDA exporta carne Halal com SIF, açúcar ICUMSA 45, grãos e óleos vegetais do Brasil para 50+ países. Certificada HACCP/ISO.",
+      "keywords": "sobre a France AJ Alimentaire And Food LTDA, empresa exportadora de alimentos no Brasil, fornecedor de carne Halal B2B, exportador de frango congelado com SIF, fornecedor de carne bovina e cordeiro congelados, fornecedor de açúcar ICUMSA 45, exportador de milho e soja a granel, fornecedor de óleo vegetal no atacado, comércio de alimentos certificado HACCP ISO, exportação FOB CIF, distribuidor global de commodities alimentícias"
+    },
+    "contact": {
+      "title": "Contato France AJ | RFQ e Suporte para Exportação B2B de Alimentos",
+      "description": "Fale com a France AJ para cotações (RFQ) de carnes Halal, açúcar e grãos. Suporte logístico FOB/CIF e equipe de comércio internacional dedicada.",
+      "keywords": "contato France AJ, RFQ exportação alimentos, fornecedor carne Halal, cotação açúcar ICUMSA 45, exportador grãos contato, equipe de vendas France AJ",
+      "ogTitle": "Contato France AJ | Solicite Cotações de Exportação (RFQ)",
+      "ogDescription": "Fale diretamente com nossa mesa de comércio global. Resposta rápida para RFQ de carnes, açúcar e grãos. Fornecimento certificado SGS/ISO."
+    },
+    "quotations": {
+      "title": "Solicitar Cotação (RFQ) | Exportação B2B de Alimentos France AJ",
+      "description": "Envie seu RFQ B2B para carnes Halal, açúcar ICUMSA 45 e grãos. Preços FOB/CIF competitivos, termos de pagamento LC/SBLC e cotas mensais em MT.",
+      "keywords": "RFQ alimentos B2B, cotação carne Halal granel, preço açúcar ICUMSA 45, cotação exportação grãos, termos FOB CIF, pagamento LC SBLC commodities"
+    },
+    "category": {
+      "title": "Fornecedor de {category} a Granel | Exportação Atacadista B2B France AJ",
+      "description": "Compre {category} premium a granel. A France AJ oferece {category} com certificação SIF/Halal, logística FOB/CIF e cotas estáveis de fornecimento mensal.",
+      "ogTitle": "{category} no Atacado | Certificação SGS e Halal | France AJ",
+      "ogDescription": "Explore nosso catálogo de {category} a granel. Fornecimento B2B confiável, inspecionado pela SGS e otimizado para exportação marítima.",
+      "twitterDescription": "Descubra {category} premium a granel da France AJ. Sua parceira B2B confiável para exportação de commodities."
+    },
+    "privacy": {
+      "title": "Política de Privacidade | France AJ Alimentaire And Food LTDA",
+      "description": "Saiba como a France AJ Alimentaire And Food LTDA protege seus dados. Nossa política explica como tratamos informações em serviços B2B."
+    },
+    "terms": {
+      "title": "Termos de Serviço | France AJ Alimentaire And Food LTDA",
+      "description": "Leia os termos de serviço da France AJ Alimentaire And Food LTDA. Estes termos regem nossas operações de exportação e comércio global."
+    },
+    "blogs": {
+      "title": "Insights do Comércio Global de Alimentos | Blog B2B France AJ",
+      "description": "Análises especializadas sobre mercados de commodities, tendências de carnes Halal, preços do açúcar ICUMSA 45 e logística de exportação agrícola do Brasil.",
+      "keywords": "tendências mercado commodities, insights exportação Halal, mercado açúcar ICUMSA 45, logística agrícola Brasil, notícias comércio global, blog France AJ"
+    }
+  },
+  "search": {
+    "heading": "O que você está procurando?",
+    "placeholder": "Digite sua busca...",
+    "suggestions_label": "Sugestões de busca:",
+    "keys": {
+      "icumsa_45": "ICUMSA 45",
+      "icumsa_150": "ICUMSA 150",
+      "icumsa_600": "ICUMSA 600-1200",
+      "frozen_chicken_feet": "Pé de Frango Congelado",
+      "frozen_chicken_paws": "Pata de Frango Congelada",
+      "halal_chicken": "Frango Halal",
+      "sunflower_oil": "Óleo de Girassol",
+      "soybean_oil": "Óleo de Soja"
+    }
+  },
+  "whatsapp_float": {
+    "aria_label": "Fale conosco no WhatsApp",
+    "close_label": "Fechar o chat do WhatsApp",
+    "support_title": "Suporte",
+    "support_subtitle": "Normalmente responde em até um dia",
+    "greeting": "Olá 👋",
+    "greeting_question": "Como posso ajudar você?",
+    "start_chat": "Iniciar Conversa",
+    "default_message": "Olá France AJ Alimentaire And Food,\n\nGostaria de saber mais sobre seus produtos e condições de exportação.\n\nObrigado."
+  },
+  "product_quote": {
+    "title": "Solicitar Cotação em Atacado",
+    "description": "Preencha seus dados e enviaremos uma cotação B2B competitiva em até 24 horas.",
+    "product_label": "Produto",
+    "quantity_label": "Quantidade Estimada (MT)",
+    "quantity_placeholder": "Ex.: 25 MT",
+    "quantity_required": "A quantidade estimada é obrigatória",
+    "destination_label": "Porto de Destino (opcional)",
+    "destination_placeholder": "Ex.: Porto de Santos",
+    "message_template": "Olá,\n\nTenho interesse em receber uma cotação em atacado para {product}.\n\nPor favor, informe:\n- Preço por MT\n- Quantidade mínima de pedido\n- Certificações disponíveis (HALAL, SIF)\n- Termos de envio (FOB Santos / CIF)\n- Prazo de entrega\n\nObrigado.",
+    "submit": "Solicitar Cotação",
+    "submitting": "Enviando...",
+    "reset": "Limpar",
+    "success_title": "Solicitação Enviada!",
+    "success_description": "Responderemos com preços e disponibilidade em até 24 horas.",
+    "subject_prefix": "Solicitação de Cotação em Atacado",
+    "btn_label": "Adicionar Solicitação de Cotação",
+    "add_to_cart_success": "Você adicionou este item ao seu carrinho com sucesso.",
+    "whatsapp_btn_label": "Cotação via WhatsApp",
+    "whatsapp_message": "Olá France AJ Alimentaire And Food,\n\nGostaria de solicitar uma cotação para o seguinte produto:\n\nProduto: {product}\nCategoria: {category}\nLink: {url}\n\nPor favor, envie o preço por MT, a quantidade mínima de pedido, as certificações disponíveis (HALAL, SIF) e os termos de envio.\n\nObrigado.",
+    "whatsapp_packing_line": "Embalagem solicitada: {packing}"
+  },
+  "product_variation": {
+    "title": "Opções de Solicitação",
+    "package_label": "Embalagem",
+    "package_placeholder": "Selecione ou digite uma embalagem",
+    "custom_value_note": "ou digite a sua",
+    "weight_label": "Peso da Caixa",
+    "weight_label_chicken": "Peso do Frango",
+    "weight_placeholder": "Selecione ou digite um peso",
+    "container_loading_label": "Carregamento do Contêiner",
+    "containers_label": "Quantidade de Contêineres",
+    "quantity_label": "Quantidade Solicitada",
+    "quantity_placeholder": "Selecione ou digite uma quantidade",
+    "min_order_note": "Pedido mínimo {min} — ou digite a sua",
+    "min_order_error": "O pedido mínimo é {min}",
+    "min_containers_note": "Mínimo de {min} contêineres — ou digite mais",
+    "selected_label": "Selecionado",
+    "selected_with_containers": "{packing} × {count} contêiner(es)"
+  },
+  "product": {
+    "category_label": "Categoria",
+    "tags_label": "Tags",
+    "specification_label": "Especificações",
+    "specification_title": "Especificações de {product}",
+    "spec_column_name": "Parâmetro",
+    "spec_column_value": "Especificação",
+    "faq_label": "Perguntas Frequentes",
+    "related_title": "Produtos Relacionados",
+    "related_description": "Outras commodities prontas para exportação que fornecemos do Brasil, originadas nas mesmas plantas, usinas e refinarias certificadas e embarcadas sob os mesmos padrões de inspeção pré-embarque. Solicite uma cotação para qualquer uma delas — quantidades a granel, FOB ou CIF.",
+    "documents_label": "Documentos",
+    "share_title": "Descubra os melhores exportadores de alimentos do Brasil!",
+    "images_label": "Imagens do produto",
+    "image_caption": "Foto do produto {product}",
+    "description_label": "Descrição do produto"
+  },
+  "instagram": {
+    "title": "Últimas do Nosso Feed",
+    "description": "Um olhar por dentro das nossas fábricas, da cadeia de frio e do carregamento dos contêineres — o trabalho diário por trás de cada embarque que enviamos para compradores no mundo todo.",
+    "button": "Seguir @france_aj_alimentaire",
+    "view_post": "Ver no Instagram",
+    "likes": "curtidas",
+    "comments": "comentários",
+    "close": "Fechar"
+  },
+  "blog_section": {
+    "title": "Notícias e Artigos",
+    "description": "Atualizações de mercado, guias de compra e análises de preço sobre as commodities que exportamos — escritos pela nossa mesa de negociação.",
+    "see_all": "Ver todos os artigos"
+  },
+  "blogs_page": {
+    "title": "Notícias e artigos",
+    "breadcrumb_home": "Início",
+    "breadcrumb_blogs": "Blogs"
+  },
+  "blog_card": {
+    "read_more": "Leia mais",
+    "read_more_aria": "Leia mais: {title}"
+  },
+  "blog_details": {
+    "not_found_title": "Artigo não encontrado",
+    "back_to_blogs": "Voltar para os Blogs",
+    "tag_fallback": "Artigo",
+    "tags_title": "Tags do Artigo",
+    "related_title": "Artigos Relacionados",
+    "related_badge": "Mais Lidos",
+    "cta_badge": "Fornecimento Direto B2B",
+    "cta_title": "Solicitar uma Cotação",
+    "cta_description": "Interessado em preços para grandes volumes? Entre em contato informando a quantidade desejada, a embalagem e o porto de destino.",
+    "cta_button": "Fale Conosco"
+  },
+  "structuredData": {
+    "name": "France AJ Alimentaire And Food Export And Import LTDA",
+    "alternateName": "France AJ",
+    "description": "Empresa de exportação B2B de alimentos especializada em carnes HALAL certificadas do Brasil, açúcar, grãos e óleos para compradores internacionais.",
+    "areaServed": "Mundial",
+    "hasCertificationName": "Certificação HALAL",
+    "contactType": "sales",
+    "contactAvailableLanguages": [
+      "Inglês",
+      "Português"
+    ],
+    "languages": [
+      "Inglês",
+      "Português"
+    ],
+    "addressLocality": "São Paulo",
+    "addressRegion": "SP",
+    "addressCountry": "BR",
+    "localBusinessDescription": "Empresa brasileira de exportação e atacado de alimentos B2B. Fornecemos carnes congeladas HALAL certificadas, açúcar, grãos e óleos vegetais para mercados globais.",
+    "openingHoursDescription": "Segunda a Sábado, 08h00–20h00 (BRT)"
+  }
+}

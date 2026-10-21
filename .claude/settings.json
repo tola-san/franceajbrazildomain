@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node -e \"const m=require\\('./messages/en.json'\\);console.log\\(Object.keys\\(m\\)\\)\")",
+      "Bash(node -e \"JSON.parse\\(require\\('fs'\\).readFileSync\\('messages/en.json'\\)\\);JSON.parse\\(require\\('fs'\\).readFileSync\\('messages/pt-br.json'\\)\\);console.log\\('json ok'\\)\")",
+      "Bash(npx eslint *)",
+      "Bash(node -e ' *)",
+      "Bash(grep -rn 'alt=\"[^\"]\\\\{6,\\\\}\"' --include=\"*.tsx\" components app)"
+    ]
+  }
+}

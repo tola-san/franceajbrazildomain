@@ -1,0 +1,271 @@
+{
+  "_note": "Two views for product #1. 'currently_rendered' = what page.tsx emits TODAY (offers.price='1.00' present -> priceSpecification dropped; manufacturer/mpn/material/category/award/shippingDetails still dormant). 'data_in_file' = full structuredData block.",
+  "currently_rendered": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.franceaj.com/en/products/sugar-icumsa-45#product",
+    "name": "Brazilian Sugar ICUMSA 45 - Bulk Wholesale Export",
+    "image": [
+      "https://www.franceaj.com/images/products/sugar/franceaj-sugar-icunsa-ic-45-004.webp",
+      "https://www.franceaj.com/images/products/sugar/franceaj-sugar-icunsa-ic-45.webp",
+      "https://www.franceaj.com/images/products/sugar/franceaj-sugar-icunsa-ic-45-002.webp",
+      "https://www.franceaj.com/images/products/sugar/franceaj-sugar-icunsa-ic-45-003.webp"
+    ],
+    "description": "Premium industrial grade ICUMSA 45 white refined sugar sourced directly from elite Brazilian mills. Grade A specifications with 99.80% polarization. Available in Bag 25-50kg. 12,500 MT up.",
+    "sku": "SUGAR-ICUMSA-45",
+    "brand": {
+      "@type": "Brand",
+      "name": "France AJ Alimentaire And Food LTDA"
+    },
+    "audience": {
+      "@type": "BusinessAudience",
+      "audienceType": "B2B – wholesale, import & export"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.franceaj.com/en/products/sugar-icumsa-45",
+      "priceCurrency": "USD",
+      "price": "1.00",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition",
+      "businessFunction": "https://schema.org/Sell",
+      "seller": {
+        "@type": "Organization",
+        "@id": "https://www.franceaj.com/#organization",
+        "name": "France AJ Alimentaire And Food LTDA"
+      },
+      "eligibleQuantity": {
+        "@type": "QuantitativeValue",
+        "value": "12500",
+        "unitCode": "TNE",
+        "unitText": "metric tons (Minimum Order Quantity)"
+      }
+    },
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "Origin",
+        "value": "Brazil (FOB Santos / CIF Shipping)"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Icumsa",
+        "value": "45 RBU"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Ash content",
+        "value": "0.04% MAX."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Solubility",
+        "value": "100% FREE FLOWING"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Colour",
+        "value": "SPARKLING WHITE"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Moisture",
+        "value": "0.04% MAX."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Polarization",
+        "value": "99.80% MIN."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Radiation",
+        "value": "NORMAL CERTIFIED"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Granulation",
+        "value": "FINE"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Packaging Options",
+        "value": "Bag 25-50kg"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Shelf Life",
+        "value": "24 Months from production date"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Payment Terms",
+        "value": "Irrevocable, Transferable LC / SBLC at sight"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Minimum Order Quantity (MOQ)",
+        "value": "12,500 MT up"
+      }
+    ],
+    "hasCertification": [
+      {
+        "@type": "Certification",
+        "name": "SGS Inspection Approved",
+        "url": "https://www.sgs.com/"
+      },
+      {
+        "@type": "Certification",
+        "name": "ISO 22000",
+        "url": "https://www.iso.org/iso-22000-food-safety.html"
+      },
+      {
+        "@type": "Certification",
+        "name": "HACCP Certified",
+        "url": "https://en.wikipedia.org/wiki/Hazard_Analysis_and_Critical_Control_Points"
+      },
+      {
+        "@type": "Certification",
+        "name": "Halal Certified",
+        "url": "https://www.halalcertification.com/"
+      }
+    ]
+  },
+  "data_in_file": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Brazilian Sugar ICUMSA 45 - Bulk Wholesale Export",
+    "image": [
+      "/images/products/sugar/franceaj-sugar-icunsa-ic-45-004.webp"
+    ],
+    "description": "Premium industrial grade ICUMSA 45 white refined sugar sourced directly from elite Brazilian mills. Grade A specifications with 99.80% polarization. Available in Bag 25-50kg. 12,500 MT up.",
+    "sku": "SUGAR-ICUMSA-45",
+    "mpn": "SUGAR-ICUMSA-45",
+    "material": "100% Pure Sucrose (Saccharum officinarum)",
+    "brand": {
+      "@type": "Brand",
+      "name": "France AJ Alimentaire And Food Export And Import LTDA"
+    },
+    "category": "Agricultural Commodities > Sweeteners > Refined Sugar",
+    "hasCertification": [
+      {
+        "@type": "Certification",
+        "name": "SGS Inspection Approved",
+        "url": "https://www.sgs.com/"
+      },
+      {
+        "@type": "Certification",
+        "name": "ISO 22000",
+        "url": "https://www.iso.org/iso-22000-food-safety.html"
+      },
+      {
+        "@type": "Certification",
+        "name": "HACCP Certified",
+        "url": "https://en.wikipedia.org/wiki/Hazard_Analysis_and_Critical_Control_Points"
+      },
+      {
+        "@type": "Certification",
+        "name": "Halal Certified",
+        "url": "https://www.halalcertification.com/"
+      }
+    ],
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.franceaj.com/en/products/sugar-icumsa-45",
+      "priceCurrency": "USD",
+      "price": "1.00",
+      "priceSpecification": {
+        "@type": "PriceSpecification",
+        "priceCurrency": "USD",
+        "description": "Starting price for RFQ purposes. Contact us for bulk volume pricing.",
+        "price": "1.00"
+      },
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition",
+      "businessFunction": "https://schema.org/Sell",
+      "seller": {
+        "@type": "Organization",
+        "name": "France AJ Alimentaire And Food Export And Import LTDA"
+      },
+      "eligibleQuantity": {
+        "@type": "QuantitativeValue",
+        "value": "12500",
+        "unitCode": "TNE",
+        "unitText": "metric tons (Minimum Order Quantity)"
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingLabel": "FOB Santos / CIF / CFR — port-to-port ocean freight",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "ZZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": "7",
+            "maxValue": "21",
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": "15",
+            "maxValue": "45",
+            "unitCode": "DAY"
+          }
+        }
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "France AJ Alimentaire And Food Export And Import LTDA",
+      "logo": "https://www.franceaj.com/images/logo/logo.png",
+      "url": "https://www.franceaj.com",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+5531910143894",
+        "contactType": "Sales",
+        "email": "info@franceajalimentaireandfood.com.br",
+        "areaServed": "Worldwide",
+        "availableLanguage": [
+          "English",
+          "Portuguese"
+        ]
+      }
+    },
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "Minimum Order Quantity (MOQ)",
+        "value": "12,500 MT up"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Payment Terms",
+        "value": "Irrevocable, Transferable LC / SBLC at sight"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Polarization",
+        "value": "99.80% MIN."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Incoterms",
+        "value": "FOB Santos, CIF, CFR"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Packaging",
+        "value": "Bag 25-50kg"
+      }
+    ],
+    "award": [
+      "ISO 22000 Food Safety Management",
+      "HACCP Certified",
+      "Halal Certified",
+      "SGS Inspection Approved"
+    ]
+  }
+}

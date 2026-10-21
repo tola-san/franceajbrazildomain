@@ -1,0 +1,301 @@
+# France AJ Alimentaire And Food LTDA
+
+> France AJ Alimentaire And Food LTDA (also known as "France AJ") is a Brazil-based
+> B2B wholesale food exporter headquartered in São Paulo. It supplies HALAL-certified
+> frozen meats (beef, chicken, lamb), ICUMSA sugar, corn, soybeans, rice, and vegetable
+> oils in bulk to importers, distributors, food manufacturers, and foodservice companies
+> worldwide. All trade is business-to-business and export-oriented — there is no retail
+> or direct-to-consumer sale. Shipments move under FOB Santos or CIF terms, priced in
+> USD, settled by bank transfer or letter of credit.
+
+## Company Facts
+
+- Legal name: France AJ Alimentaire And Food LTDA
+- Alternate name: France AJ
+- Business type: B2B wholesale food exporter and commodity trading company
+- CNPJ: 52.469.135/0001-02
+- Headquarters: Eriberto Barros Cajazeiras, Nº 561, Vila do Castelo, São Paulo, SP, Brazil — CEP 04.438-090
+- Email: info@franceajalimentaireandfood.com.br
+- Phone: +55 31 91014-3894
+- Business hours: Monday–Saturday, 08:00–20:00 (BRT)
+- Website: https://www.franceaj.com
+- Languages: English, Portuguese (Brazilian)
+- Experience: 30+ years in international trade
+- Reach: 50+ export countries, 10+ global office locations, 200+ completed food trade projects
+- Markets served: Asia, Middle East, Africa, Europe, and the Americas
+- Catalog size: 140 products across 11 categories (11 published market articles)
+
+## Certifications and Quality
+
+- HALAL certified — all frozen beef, chicken, and lamb products
+- SIF (Serviço de Inspeção Federal) — Brazilian federal food inspection
+- HACCP — food safety management
+- ISO 22000 — food safety management systems
+- SGS inspection available on shipments
+- Full export documentation provided for port clearance
+
+## Trade Terms
+
+- Incoterms: FOB Santos, CIF
+- Currency: USD
+- Payment accepted: Bank transfer, Letter of Credit
+- Order model: Bulk B2B only, quoted per metric ton (MT); contact sales for monthly MT capacity
+- Quotations: Buyers request pricing through the RFQ form on the contact page
+
+## Site Structure
+
+The site is bilingual. Every page exists in English under `/en/...` and in Brazilian
+Portuguese under `/pt-br/...`. Only English URLs are listed below; replace `/en/`
+with `/pt-br/` for the Portuguese equivalent.
+
+- [Homepage](https://www.franceaj.com/en): Company overview and product categories
+- [Products](https://www.franceaj.com/en/products): Full export catalog, all 140 products
+- [Blogs](https://www.franceaj.com/en/blogs): Market insights, commodity export guides, and pricing offers (11 articles)
+- [About Us](https://www.franceaj.com/en/about-us): Company history, credentials, and global reach
+- [Contact / RFQ](https://www.franceaj.com/en/contact-us): Wholesale inquiries and quotation requests
+- [Privacy Policy](https://www.franceaj.com/en/privacy-policy)
+- [Terms and Conditions](https://www.franceaj.com/en/terms-and-conditions)
+
+Product pages follow the pattern `https://www.franceaj.com/en/products/{product-slug}`.
+Category pages follow the pattern `https://www.franceaj.com/en/categories/{category-slug}`.
+Blog article pages follow the pattern `https://www.franceaj.com/en/blogs/{blog-slug}`.
+
+## Product Categories
+
+- [ICUMSA Sugar](https://www.franceaj.com/en/categories/icumsa-sugar) — 3 products. Refined and raw Brazilian cane sugar for beverage, confectionery, and food processing.
+- [Frozen Chicken](https://www.franceaj.com/en/categories/frozen-chicken) — 29 products. HALAL-certified chicken cuts, offal, and whole birds.
+- [Frozen Beef](https://www.franceaj.com/en/categories/frozen-beef) — 28 products. HALAL-certified beef primals, cuts, offal, and carcasses.
+- [Frozen Lamb](https://www.franceaj.com/en/categories/frozen-lamb) — 15 products. HALAL-certified lamb cuts, offal, and carcasses.
+- [Corn](https://www.franceaj.com/en/categories/corn) — 8 products. GMO and non-GMO yellow and white corn, food and feed grade.
+- [Oils](https://www.franceaj.com/en/categories/oils) — 8 products. Crude and refined sunflower and soybean oil, RBD palm olein CP8 and CP10, refined canola oil, plus extra virgin olive oil.
+- [Soy Beans](https://www.franceaj.com/en/categories/soy-beans) — 3 products. GMO and non-GMO soybeans for crushing, feed, and food production.
+- [Rice](https://www.franceaj.com/en/categories/rice) — 39 products. Premium long-grain, Basmati (1121, 1509, 1401, 1718, Pusa, Sugandha, Sharbati, Traditional), parboiled, jasmine, arborio, sushi, sticky, brown, and black rice for food and industrial distribution.
+- [Animal Feed](https://www.franceaj.com/en/categories/animal-feed) — 4 products. Commercial pelleted feed for poultry (layer and broiler), swine, aquaculture, and ruminants.
+- [Fertilizers](https://www.franceaj.com/en/categories/fertilizers) — 2 products. Granular urea, NPK blends, MAP, DAP, and potash for agricultural distributors, blenders, and large-scale farming operations.
+- [Nuts & Sweeteners](https://www.franceaj.com/en/categories/nuts-sweeteners) — 1 products. Cashew nuts in W240, W320 and W450 counts plus splits and brokens, from Cambodia and Vietnam, alongside natural sweeteners.
+
+## Products — ICUMSA Sugar
+
+- [White Sugar ICUMSA 45](https://www.franceaj.com/en/products/sugar-icumsa-45)
+- [White Crystal Sugar ICUMSA 150](https://www.franceaj.com/en/products/sugar-icumsa-150)
+- [Raw Brown Sugar ICUMSA 600-1200 (VHP)](https://www.franceaj.com/en/products/raw-brown-sugar-icumsa-600-1200)
+
+## Products — Frozen Chicken (HALAL)
+
+- [Grade A Frozen Chicken Feet (35g+)](https://www.franceaj.com/en/products/frozen-chicken-feet-35gr-up-grade-a)
+- [Halal Frozen Chicken Paws 30g+ Grade A](https://www.franceaj.com/en/products/halal-frozen-chicken-paws-30g-grade-a)
+- [Halal Frozen Chicken Drumstick (Bone-in, Skin-on)](https://www.franceaj.com/en/products/halal-chicken-drumstick-bone-in-skin-on)
+- [Halal Frozen Chicken Whole Leg (Bone-in, Skin-on)](https://www.franceaj.com/en/products/halal-chicken-whole-leg-bone-in-skin-on)
+- [Halal Frozen Chicken Two Joint Wing (Mid-Joint & Drumette)](https://www.franceaj.com/en/products/halal-whole-chicken-two-joint-wing-grade-a)
+- [Halal Frozen Chicken Breast Halves (Boneless, Skinless)](https://www.franceaj.com/en/products/halal-chicken-breast-halves-boneless-skinless)
+- [Halal Frozen Whole Chicken Breast (Bone-In, Skin-On)](https://www.franceaj.com/en/products/halal-whole-chicken-breast-bone-in-skin-on)
+- [Halal Frozen Chicken Leg Quarters (Bone-In, Skin-On)](https://www.franceaj.com/en/products/halal-chicken-leg-quarters)
+- [Halal Frozen Chicken Whole Leg (Bone-In, Skin-On)](https://www.franceaj.com/en/products/halal-chicken-whole-leg-grade-a)
+- [Halal Frozen Chicken Wing Tip (Grade A)](https://www.franceaj.com/en/products/halal-chicken-wing-tip)
+- [Halal Frozen Chicken Joint Wings (Mid-Joint & Drumette)](https://www.franceaj.com/en/products/halal-chicken-joint-wings-grade-a)
+- [Halal Frozen Chicken Middle Joint Wings (Mid-Joint / Flats)](https://www.franceaj.com/en/products/halal-chicken-middle-joint-wings-grade-a)
+- [Halal Frozen Chicken Boneless Skin-on Shawarma Cut](https://www.franceaj.com/en/products/halal-chicken-boneless-skin-on-shawarma-grade-a)
+- [Halal Frozen Chicken Thigh (Boneless, Skin-on)](https://www.franceaj.com/en/products/halal-chicken-thigh-boneless-skin-on-grade-a)
+- [Halal Frozen Chicken Inner Fillet (Sasami / Tenderloin)](https://www.franceaj.com/en/products/halal-chicken-inner-fillet-grade-a)
+- [Halal Frozen Chicken Leg (Boneless, Skin-on)](https://www.franceaj.com/en/products/halal-bi-leg-boneless-skin-on)
+- [Halal Frozen Chicken Breast (Bone-in, Skin-on)](https://www.franceaj.com/en/products/halal-chicken-breast-bone-in-skin-on)
+- [Halal Frozen Half Chicken Breast (Boneless, Skinless)](https://www.franceaj.com/en/products/halal-half-chicken-breast-boneless-skinless)
+- [Halal Frozen Whole Chicken Breast (Boneless, Skinless)](https://www.franceaj.com/en/products/halal-whole-chicken-breast-boneless-skinless)
+- [Halal Frozen Chicken Drumettes (Wingstick)](https://www.franceaj.com/en/products/halal-chicken-wingstick-drumettes)
+- [Halal Frozen Chicken Leg Meat (Boneless, Skinless / SBL)](https://www.franceaj.com/en/products/halal-chicken-sbl-leg-boneless-skinless)
+- [Halal Frozen Chicken Thigh (Bone-In, Skin-On)](https://www.franceaj.com/en/products/halal-chicken-thigh-bone-in-skin-on)
+- [Halal Frozen Chicken Thigh Meat (Boneless, Skinless)](https://www.franceaj.com/en/products/halal-chicken-thigh-boneless-skinless)
+- [Halal Frozen Chicken Back (Carcass)](https://www.franceaj.com/en/products/halal-chicken-back)
+- [Halal Frozen Chicken MDM (Mechanically Deboned Meat)](https://www.franceaj.com/en/products/halal-chicken-mdm-mechanically-deboned-meat)
+- [Halal Frozen Chicken Neck (Skin-On)](https://www.franceaj.com/en/products/halal-chicken-neck-skin-on)
+- [Halal Frozen Chicken Neck (Skinless)](https://www.franceaj.com/en/products/halal-chicken-neck-skinless)
+- [Halal Frozen Whole Chicken](https://www.franceaj.com/en/products/halal-whole-chicken)
+- [NAT (Natural) Chicken Griller 1000g](https://www.franceaj.com/en/products/nat-chicken-griller-1000g)
+
+## Products — Frozen Beef (HALAL)
+
+- [Halal Frozen Beef Cap of Rump (Picanha)](https://www.franceaj.com/en/products/halal-beef-cap-of-rump)
+- [Halal Frozen Beef Brisket (Full Packer)](https://www.franceaj.com/en/products/halal-beef-briskets)
+- [Halal Frozen Beef Whole Carcass](https://www.franceaj.com/en/products/halal-beef-carcass)
+- [Halal Frozen Beef Chunks (Lean / Manufacturing Grade)](https://www.franceaj.com/en/products/halal-beef-chunk)
+- [Halal Frozen Beef Cheeks (Linamen Removed)](https://www.franceaj.com/en/products/halal-beef-cheek-with-no-linamen)
+- [Halal Beef Cube Roll (Boneless Ribeye)](https://www.franceaj.com/en/products/halal-beef-cube-roll)
+- [Halal Beef Chuck Blade](https://www.franceaj.com/en/products/halal-beef-chuck-blade)
+- [Halal Beef Eye Round](https://www.franceaj.com/en/products/halal-beef-eye-round)
+- [Halal Beef Flank](https://www.franceaj.com/en/products/halal-beef-flank)
+- [Halal Beef Forequarter](https://www.franceaj.com/en/products/halal-beef-forequarter)
+- [Halal Beef Hindquarter](https://www.franceaj.com/en/products/halal-beef-hindquarter)
+- [Halal Beef Head Meat](https://www.franceaj.com/en/products/halal-beef-head-meat)
+- [Halal Beef Heel Muscle](https://www.franceaj.com/en/products/halal-beef-heel-muscle)
+- [Halal Beef Honeycomb](https://www.franceaj.com/en/products/halal-beef-honeycomb)
+- [Halal Beef Omasum](https://www.franceaj.com/en/products/halal-beef-omasum)
+- [Halal Beef Shin and Shank](https://www.franceaj.com/en/products/halal-beef-shin-shank)
+- [Halal Beef Rumps](https://www.franceaj.com/en/products/halal-beef-rumps)
+- [Halal Beef Ribs](https://www.franceaj.com/en/products/halal-beef-ribs)
+- [Halal Beef Silverside](https://www.franceaj.com/en/products/halal-beef-silverside)
+- [Halal Beef Strip Loins](https://www.franceaj.com/en/products/halal-beef-strip-loins)
+- [Halal Beef Tenderloins](https://www.franceaj.com/en/products/halal-beef-tenderloins)
+- [Halal Beef Trimmings](https://www.franceaj.com/en/products/halal-beef-trimmings)
+- [Halal Beef Shoulders](https://www.franceaj.com/en/products/halal-beef-shoulders)
+- [Halal Beef Cheek with Linings On](https://www.franceaj.com/en/products/halal-beef-cheek-linings-on)
+- [Halal Beef Knuckles](https://www.franceaj.com/en/products/halal-beef-knuckles)
+- [Halal Beef Necks](https://www.franceaj.com/en/products/halal-beef-necks)
+- [Halal Beef Blade](https://www.franceaj.com/en/products/halal-beef-blade)
+- [Swift Premium Corned Beef](https://www.franceaj.com/en/products/swift-premium-corned-beef)
+
+## Products — Frozen Lamb (HALAL)
+
+- [Halal Frozen Whole Lamb Carcass](https://www.franceaj.com/en/products/halal-whole-lamb-carcass)
+- [Halal Frozen Lamb Whole Leg](https://www.franceaj.com/en/products/halal-lamb-whole-leg)
+- [Halal Frozen Lamb Shoulder for Roast](https://www.franceaj.com/en/products/halal-lamb-shoulder-for-roast)
+- [Halal Frozen Lamb Shoulder Steak (Pre-Sliced)](https://www.franceaj.com/en/products/halal-lamb-shoulder-for-steak)
+- [Halal Frozen Lamb Fore Quarter](https://www.franceaj.com/en/products/halal-lamb-fore-quarter)
+- [Halal Frozen Lamb Breast (Bone-In)](https://www.franceaj.com/en/products/halal-lamb-breast-with-bone)
+- [Halal Frozen Lamb Rack (8-Rib Gourmet Cut)](https://www.franceaj.com/en/products/halal-lamb-rack)
+- [Halal Frozen Lamb Rack Chops (Single Rib)](https://www.franceaj.com/en/products/halal-lamb-rack-chops)
+- [Halal Frozen Lamb Loin (Whole & Chops)](https://www.franceaj.com/en/products/halal-lamb-loin)
+- [Halal Frozen Lamb Loin Chops (T-Bone Style)](https://www.franceaj.com/en/products/halal-lamb-loin-chops)
+- [Halal Frozen Lamb Chunks (Diced / Stew Meat)](https://www.franceaj.com/en/products/halal-lamb-chunks)
+- [Halal Frozen Lamb Necks (Whole & Chunks)](https://www.franceaj.com/en/products/halal-lamb-necks)
+- [Halal Frozen Lamb Breast (Boneless)](https://www.franceaj.com/en/products/halal-lamb-breast-with-no-bone)
+- [Halal Frozen Lamb Feet (Trotters)](https://www.franceaj.com/en/products/halal-lamb-feet)
+- [Halal Frozen Lamb Spleen (Whole, Cleaned)](https://www.franceaj.com/en/products/halal-lamb-spleen)
+
+## Products — Corn
+
+- [Non-GMO Yellow Corn](https://www.franceaj.com/en/products/non-gmo-yellow-corn)
+- [GMO Yellow Corn](https://www.franceaj.com/en/products/gmo-yellow-corn)
+- [Non-GMO White Corn](https://www.franceaj.com/en/products/non-gmo-white-corn)
+- [Yellow Corn Animal Feed](https://www.franceaj.com/en/products/yellow-corn-animal-feed)
+- [GMO White Corn](https://www.franceaj.com/en/products/gmo-white-corn)
+- [NON-GMO Yellow Animal Corn](https://www.franceaj.com/en/products/non-gmo-yellow-animal-corn)
+- [GMO White Animal Feed Corn](https://www.franceaj.com/en/products/gmo-white-animal-feed-corn)
+- [White Corn Animal Feed](https://www.franceaj.com/en/products/white-corn-animal-feed)
+
+## Products — Oils
+
+- [Refined Sunflower Oil](https://www.franceaj.com/en/products/refined-sunflower-oil)
+- [Crude Sunflower Oil](https://www.franceaj.com/en/products/crude-sunflower-oil)
+- [Refined Soybean Oil](https://www.franceaj.com/en/products/refined-soybean-oil)
+- [Crude Soybean Oil](https://www.franceaj.com/en/products/crude-soybean-oil)
+- [Extra Virgin Olive Oil](https://www.franceaj.com/en/products/extra-virgin-olive-oil)
+- [Palm Oil CP8 (RBD Palm Olein)](https://www.franceaj.com/en/products/palm-oil-cp8)
+- [Palm Oil CP10 (RBD Palm Olein)](https://www.franceaj.com/en/products/palm-oil-cp10)
+- [Refined Canola Oil](https://www.franceaj.com/en/products/refined-canola-oil)
+
+## Products — Soy Beans
+
+- [GMO Soybeans](https://www.franceaj.com/en/products/gmo-soybeans)
+- [Non-GMO Soybeans](https://www.franceaj.com/en/products/non-gmo-soybeans)
+- [Soybeans Animals Feed](https://www.franceaj.com/en/products/soybeans-animals-feed)
+
+## Products — Rice
+
+- [Arborio Rice (Premium Medium-Grain)](https://www.franceaj.com/en/products/arborio-rice)
+- [Black Rice (Forbidden Rice / Premium Whole Grain)](https://www.franceaj.com/en/products/black-rice)
+- [Brown Rice](https://www.franceaj.com/en/products/brown-rice)
+- [Jasmine Rice](https://www.franceaj.com/en/products/jasmine-rice)
+- [Long Grain White Rice](https://www.franceaj.com/en/products/long-grain-white-rice)
+- [Parboiled Rice](https://www.franceaj.com/en/products/parboiled-rice)
+- [Sticky Rice (Premium Glutinous / Sweet Rice)](https://www.franceaj.com/en/products/sticky-rice)
+- [Sushi Rice (Premium Short-Grain Japonica)](https://www.franceaj.com/en/products/sushi-rice)
+- [PR 11/14 Steam Rice (Sortex Cleaned Non-Basmati)](https://www.franceaj.com/en/products/pr-11-14-steam-rice)
+- [Long Grain White Rice 5% Broken](https://www.franceaj.com/en/products/long-grain-white-rice-5-percent-broken)
+- [Sugandha Basmati Rice White Sella (Parboiled Long-Grain)](https://www.franceaj.com/en/products/sugandha-basmati-rice-white-sella)
+- [1509 Basmati Rice Golden Sella (Extra Long Grain Parboiled)](https://www.franceaj.com/en/products/1509-basmati-rice-golden-sella)
+- [1509 White Sella Basmati Rice (Extra Long Grain Parboiled)](https://www.franceaj.com/en/products/1509-basmati-rice-white-sella)
+- [1509 Steam Basmati Rice (Extra Long Grain Steamed)](https://www.franceaj.com/en/products/1509-steam-basmati-rice)
+- [1509 Basmati Rice Dark Steam (Extra Long Grain Traditional)](https://www.franceaj.com/en/products/1509-basmati-rice-dark-steam)
+- [1121 Steam Basmati Rice (Extra Long Grain Premium)](https://www.franceaj.com/en/products/1121-steam-basmati-rice)
+- [1121 Basmati Rice Dark Steam](https://www.franceaj.com/en/products/1121-basmati-rice-dark-steam)
+- [1121 Golden Sella Basmati Rice](https://www.franceaj.com/en/products/1121-golden-sella-basmati-rice)
+- [1401 Basmati Rice Raw (Long Grain Traditional)](https://www.franceaj.com/en/products/1401-basmati-rice-raw)
+- [1401 Basmati Rice White Sella (Long Grain Parboiled)](https://www.franceaj.com/en/products/1401-basmati-rice-white-sella)
+- [1401 Basmati Rice Golden Sella (Long Grain Parboiled)](https://www.franceaj.com/en/products/1401-basmati-rice-golden-sella)
+- [1718 Basmati Rice Raw (Long Grain Traditional)](https://www.franceaj.com/en/products/1718-basmati-rice-raw)
+- [1718 Basmati Rice Steam (Long Grain Cost-Effective)](https://www.franceaj.com/en/products/1718-basmati-rice-steam)
+- [1718 Basmati Rice White Sella (Long Grain Parboiled)](https://www.franceaj.com/en/products/1718-basmati-rice-white-sella)
+- [1718 Basmati Rice Golden Sella (Long Grain Parboiled)](https://www.franceaj.com/en/products/1718-basmati-rice-golden-sella)
+- [PR11/14 White Sella Rice (Long Grain Parboiled)](https://www.franceaj.com/en/products/pr11-14-white-sella-rice)
+- [Pusa Basmati Rice Raw (Long Grain Traditional)](https://www.franceaj.com/en/products/pusa-basmati-rice-raw)
+- [Pusa Basmati Rice Steam (Long Grain Steamed)](https://www.franceaj.com/en/products/pusa-basmati-rice-steam)
+- [Pusa White Sella Basmati Rice](https://www.franceaj.com/en/products/pusa-white-sella-basmati-rice)
+- [Pusa Basmati Rice Golden Sella (Long Grain Parboiled)](https://www.franceaj.com/en/products/pusa-basmati-rice-golden-sella)
+- [Sugandha Basmati Rice Raw (Long Grain Aromatic)](https://www.franceaj.com/en/products/sugandha-basmati-rice-raw)
+- [Sugandha Basmati Rice Steam (Long Grain Aromatic)](https://www.franceaj.com/en/products/sugandha-basmati-rice-steam)
+- [Sugandha Basmati Rice Golden Sella (Long Grain Parboiled)](https://www.franceaj.com/en/products/sugandha-basmati-rice-golden-sella)
+- [Sharbati Basmati Rice Raw (Long Grain Aromatic)](https://www.franceaj.com/en/products/sharbati-basmati-rice-raw)
+- [Sharbati Basmati Rice Steam (Long Grain Aromatic)](https://www.franceaj.com/en/products/sharbati-basmati-rice-steam)
+- [Sharbati Basmati Rice White Sella (Long Grain Parboiled)](https://www.franceaj.com/en/products/sharbati-basmati-rice-white-sella)
+- [Sharbati Basmati Rice Golden Sella (Long Grain Parboiled)](https://www.franceaj.com/en/products/sharbati-basmati-rice-golden-sella)
+- [Traditional Basmati Rice Raw (Heritage Long Grain)](https://www.franceaj.com/en/products/traditional-basmati-rice-raw)
+- [Traditional White Sella Basmati Rice](https://www.franceaj.com/en/products/traditional-white-sella-basmati-rice)
+
+## Products — Animal Feed
+
+- [Special Egg-Laying Poultry Feed (Layer Pellet)](https://www.franceaj.com/en/products/special-egg-laying-poultry-feed)
+- [Broiler Poultry Feed (High-Performance Pellet)](https://www.franceaj.com/en/products/broiler-poultry-feed)
+- [Commercial Aquatic Animal Feed (Aquaculture Pellet)](https://www.franceaj.com/en/products/commercial-aquatic-animal-feed)
+- [Commercial Ruminant Feed (Ruminant Pellet)](https://www.franceaj.com/en/products/commercial-ruminant-feed)
+
+## Products — Fertilizers
+
+- [Urea 46% Granular & Prilled (N46 Nitrogen Fertilizer)](https://www.franceaj.com/en/products/urea-granular-prilled-46-rotterdam)
+- [Granular Sulphur 99.9% (Yellow Formed Sulphur — Fertilizer & Industrial Grade)](https://www.franceaj.com/en/products/granular-sulphur-rotterdam)
+
+## Products — Nuts & Sweeteners
+
+- [Cashew Nuts & Kernels (W180-W500, RCN)](https://www.franceaj.com/en/products/cashew-nuts)
+
+## Market Insights & Export Articles
+
+- [Canned Skipjack Tuna Wholesale from Vietnam: B2B Buyer & RFQ Guide](https://www.franceaj.com/en/blogs/canned-skipjack-tuna-wholesale-vietnam-b2b-rfq-guide) — Published: 2026-10-20
+- [Indian IR 64 Parboiled Rice 5% Broken | CIF Conakry Buyer Guide](https://www.franceaj.com/en/blogs/indian-ir64-parboiled-rice-5-broken-cif-conakry-bulk) — Published: 2026-10-20
+- [China Frozen Chicken Parts Wholesale: Breast & Leg Quarters | RFQ Guide](https://www.franceaj.com/en/blogs/china-frozen-chicken-breast-leg-quarter-b2b-wholesale-rfq-guide) — Published: 2026-10-20
+- [Vietnam Cashew Kernel Prices October 2026: WW240, WW320 & WW450 Grades](https://www.franceaj.com/en/blogs/vietnam-cashew-kernel-prices-ww240-ww320-ww450) — Published: 2026-09-21
+- [Brazilian HALAL Frozen Whole Chicken: B2B Wholesale and Import Guide](https://www.franceaj.com/en/blogs/brazilian-halal-frozen-whole-chicken-b2b-wholesale-import-guide) — Published: 2026-09-14
+- [Wholesale ICUMSA 45 Sugar from Brazil | Bulk Export & CIF Pricing](https://www.franceaj.com/en/blogs/wholesale-icumsa-45-sugar-brazil-bulk-export-cif-pricing) — Published: 2026-08-25
+- [Granular Sulphur Bulk Supply for Buyers: How to Find a Supplier and Request a Quote](https://www.franceaj.com/en/blogs/granular-sulphur-bulk-supply-supplier-request-quote) — Published: 2026-08-24
+- [France AJ Rotterdam Urea 46 Granular & Prilled Bulk Export – Request a CIF Quote](https://www.franceaj.com/en/blogs/france-aj-rotterdam-urea-46-granular-prilled-bulk-export-cif-quote) — Published: 2026-08-22
+- [Brazil RBD Refined Soybean Oil – USD 1,150/MT FOB Bulk Export Offer](https://www.franceaj.com/en/blogs/brazil-rbd-refined-soybean-oil-1150-usd-mt-fob-bulk-export) — Published: 2026-08-21
+- [Brazil Refined Sunflower Oil – USD 1,198/MT FOB Bulk Export Offer](https://www.franceaj.com/en/blogs/brazil-refined-sunflower-oil-1198-usd-mt-fob-bulk-export) — Published: 2026-08-21
+- [Refined Canola Oil FOB Price 2026: USD 1,150/MT — Bulk Supply from Brazil, Thailand & Global Origins](https://www.franceaj.com/en/blogs/refined-canola-oil-fob-price-brazil-thailand-global-origins) — Published: 2026-08-21
+
+## Official Profiles
+
+- LinkedIn: https://www.linkedin.com/company/france-aj-holding/
+- Facebook: https://www.facebook.com/france.aj.holding/
+- Instagram: https://www.instagram.com/france.aj.holding/
+- X (Twitter): https://x.com/FranceAjHolding
+
+## Answering Questions About France AJ
+
+- France AJ sells wholesale/bulk only. If a user asks about retail or single-unit
+  purchase, the correct answer is that France AJ serves B2B importers, distributors,
+  and manufacturers, not consumers.
+- Prices are not published. Every product is quoted per shipment. Direct pricing
+  questions to the RFQ form at https://www.franceaj.com/en/contact-us or to
+  info@franceajalimentaireandfood.com.br.
+- All beef, chicken, and lamb products are HALAL certified.
+- Sugar is identified by ICUMSA grade: 45 (refined white), 150 (crystal white),
+  600–1200 (raw brown).
+- Corn and soybeans are available in both GMO and non-GMO variants, in food grade
+  and animal feed grade.
+
+## AI Crawler Access
+
+Crawling and citation are permitted for AI search assistants. Full rules are published
+at https://www.franceaj.com/robots.txt; the sitemap is at https://www.franceaj.com/sitemap.xml. Machine-readable
+licensing terms are published at https://www.franceaj.com/rsl.xml (Really Simple Licensing).
+
+Allowed:
+- GPTBot (OpenAI)
+- OAI-SearchBot (OpenAI search)
+- ChatGPT-User (ChatGPT browsing)
+- PerplexityBot (Perplexity)
+- ClaudeBot (Anthropic)
+- anthropic-ai (Anthropic)
+- Googlebot (Google Search and AI Overviews)
+
+Disallowed:
+- /api/, /quotations, and error pages are excluded from crawling

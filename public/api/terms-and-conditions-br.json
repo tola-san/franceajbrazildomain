@@ -1,0 +1,160 @@
+[
+  {
+    "id": "definitions",
+    "title": "Definições",
+    "lists": [
+      {
+        "title": "\"Empresa\"",
+        "description": "Refere-se à France AJ Alimentaire And Food LTDA And Food LTDA, uma empresa especializada na exportação e importação de produtos alimentícios."
+      },
+      {
+        "title": "\"Site\"",
+        "description": "Refere-se ao site operado pela Empresa, incluindo todas as suas páginas, conteúdos e serviços."
+      },
+      {
+        "title": "\"Usuário\", \"Você\", \"Seu\"",
+        "description": "Refere-se a qualquer indivíduo, empresa ou entidade que acessa ou utiliza o Site."
+      },
+      {
+        "title": "\"Produtos\"",
+        "description": "Refere-se aos produtos alimentícios que oferecemos para exportação e importação, incluindo, mas não se limitando a: Frango Congelado, Carne Bovina Congelada, Carne de Cordeiro Congelada, Açúcar, Feijão, Óleo e Milho."
+      },
+      {
+        "title": "\"Serviços\"",
+        "description": "Refere-se aos serviços business-to-business (B2B) prestados pela Empresa, incluindo a facilitação de consultas, cotações e transações comerciais."
+      }
+    ]
+  },
+  {
+    "id": "use-of-the-website",
+    "title": "Uso do Site",
+    "lists": [
+      {
+        "title": "Elegibilidade",
+        "description": "Nosso site é destinado exclusivamente ao uso B2B. Você deve ter pelo menos 18 anos e autoridade legal para celebrar um contrato vinculativo em nome de sua empresa ou organização para utilizar este Site."
+      },
+      {
+        "title": "Atividades Proibidas",
+        "description": "Você concorda em não utilizar o Site para qualquer finalidade ilegal ou proibida por estes Termos. Isso inclui, mas não se limita a:\n\n * Usar o Site para transmitir publicidade não autorizada ou não solicitada.\n * Tentar interferir no funcionamento adequado do Site.\n * Introduzir vírus, worms ou outros códigos maliciosos.\n * Coletar ou armazenar dados pessoais de outros usuários sem seu consentimento.\n"
+      }
+    ]
+  },
+  {
+    "id": "intellectual-property",
+    "title": "Propriedade Intelectual",
+    "description": "Todo o conteúdo deste Site, incluindo textos, gráficos, logotipos, imagens e softwares, é propriedade da France AJ Alimentaire And Food LTDA And Food LTDA ou de seus fornecedores de conteúdo e está protegido por leis internacionais de direitos autorais e propriedade intelectual. Você não pode reproduzir, distribuir, modificar ou criar obras derivadas de qualquer conteúdo deste Site sem nossa permissão expressa por escrito."
+  },
+  {
+    "id": "products-and-services",
+    "title": "Produtos e Serviços",
+    "lists": [
+      {
+        "title": "Informações dos Produtos",
+        "description": "Nos esforçamos para fornecer informações precisas sobre nossos Produtos, mas não garantimos que as descrições, especificações ou outros conteúdos do Site estejam totalmente corretos, completos, confiáveis ou livres de erros. Todas as informações são apenas para fins informativos e podem ser alteradas sem aviso prévio."
+      },
+      {
+        "title": "Cotações e Pedidos",
+        "description": "A exibição de Produtos no Site não constitui uma oferta de venda. Todas as transações são B2B e estão sujeitas a um processo formal de cotação. Após uma consulta, será fornecida uma proposta formal com especificações do produto, quantidade, preço e condições de venda. Um pedido só será vinculativo após a assinatura de um contrato formal por ambas as partes."
+      },
+      {
+        "title": "Preços",
+        "description": "Todos os preços exibidos no Site são indicativos e estão sujeitos a alterações. O preço final será fornecido em uma cotação formal."
+      }
+    ]
+  },
+  {
+    "id": "orders-and-payment",
+    "title": "Pedidos e Pagamentos",
+    "lists": [
+      {
+        "title": "Faturamento",
+        "description": "A Empresa emitirá faturas para todos os Produtos vendidos. Os termos de pagamento serão especificados no contrato formal."
+      },
+      {
+        "title": "Métodos de Pagamento",
+        "description": "Aceitamos pagamento via transferência bancária ou outros métodos conforme acordado no contrato formal. Você é responsável por quaisquer taxas associadas ao método de pagamento escolhido."
+      },
+      {
+        "title": "Atraso no Pagamento",
+        "description": "O não pagamento na data acordada poderá resultar em taxas de atraso e/ou suspensão de pedidos futuros, conforme estipulado no contrato formal."
+      }
+    ]
+  },
+  {
+    "id": "shipping-delivery-and-risk-of-loss",
+    "title": "Envio, Entrega e Risco de Perda",
+    "lists": [
+      {
+        "title": "Envio",
+        "description": "Os termos de envio, incluindo Incoterms, serão claramente definidos no contrato formal de cada transação."
+      },
+      {
+        "title": "Entrega",
+        "description": "A Empresa fará esforços comercialmente razoáveis para entregar os Produtos de acordo com o cronograma acordado. No entanto, as datas de entrega são estimativas e não nos responsabilizamos por eventuais atrasos."
+      },
+      {
+        "title": "Risco de Perda",
+        "description": "O risco de perda ou dano aos Produtos será transferido para você conforme o evento Incoterm especificado, normalmente no momento em que os Produtos são entregues ao transportador."
+      }
+    ]
+  },
+  {
+    "id": "limitation-of-liability",
+    "title": "Limitação de Responsabilidade",
+    "description": "Na máxima extensão permitida por lei, a France AJ Alimentaire And Food LTDA And Food LTDA não será responsável por quaisquer danos indiretos, incidentais, especiais, consequenciais ou punitivos, ou por qualquer perda de lucros ou receitas, direta ou indiretamente, ou qualquer perda de dados, uso, boa-fé ou outras perdas intangíveis resultantes de:",
+    "lists": [
+      {
+        "description": "Seu acesso ou uso, ou incapacidade de acessar ou usar, o Site."
+      },
+      {
+        "description": "Qualquer conduta ou conteúdo de terceiros no Site."
+      },
+      {
+        "description": "Qualquer conteúdo obtido no Site."
+      },
+      {
+        "description": "Acesso, uso ou alteração não autorizada de suas transmissões ou conteúdo."
+      }
+    ]
+  },
+  {
+    "id": "indemnification",
+    "title": "Indenização",
+    "description": "Você concorda em indenizar, defender e isentar a France AJ Alimentaire And Food LTDA And Food LTDA, seus diretores, funcionários e agentes, de quaisquer e todas as reclamações, danos, obrigações, perdas, responsabilidades, custos ou dívidas e despesas (incluindo honorários advocatícios) decorrentes de:",
+    "lists": [
+      {
+        "description": "Seu uso e acesso ao Site."
+      },
+      {
+        "description": "Sua violação de qualquer termo destes Termos."
+      },
+      {
+        "description": "Sua violação de qualquer direito de terceiros, incluindo, sem limitação, qualquer direito de propriedade intelectual ou de privacidade."
+      }
+    ]
+  },
+  {
+    "id": "governing-law-and-jurisdiction",
+    "title": "Legislação Aplicável e Jurisdição",
+    "description": "Estes Termos serão regidos e interpretados de acordo com as leis do Brasil, sem considerar os princípios de conflito de leis. Você concorda em submeter-se à jurisdição exclusiva dos tribunais localizados em São Paulo para resolver qualquer questão legal decorrente destes Termos."
+  },
+  {
+    "id": "contact-information",
+    "title": "Informações de Contato",
+    "description": "Se você tiver alguma dúvida sobre estes Termos, entre em contato conosco por:",
+    "lists": [
+      {
+        "title": "E-mail",
+        "description": "info@franceajalimentaireandfood.com.br"
+      },
+      {
+        "title": "Telefone",
+        "description": "+55 11 1234-5678"
+      },
+      {
+        "title": "Endereço",
+        "description": "Eriberto Barros Cajazeiras, Nº 561, Bairro: Vila do Castelo, São Paulo /SP - Brasil - CEP: 04.438-090"
+      }
+    ]
+  }
+]
