@@ -46,6 +46,9 @@ const catalogModified = (fileName) => {
 
 
 const nextConfig = {
+    outputFileTracingIncludes: {
+        '/**': ['./public/api/**/*'],
+    },
     reactStrictMode: true,
     eslint: {
         ignoreDuringBuilds: true,

@@ -1,6 +1,6 @@
-import { host } from "@/config";
 import { BaseResponse } from "@/types/base-response";
 import { Blog } from "@/types/blog";
+import { readApiJson } from "@/lib/data/read-api-json";
 
 /**
  * Publish time in ms, with unparseable dates treated as epoch so they sink to
@@ -21,28 +21,8 @@ const publishedTime = (blog: Blog) => {
 const byNewestFirst = (a: Blog, b: Blog) => publishedTime(b) - publishedTime(a);
 
 const fetchBlogsList = async (lang?: string): Promise<Blog[]> => {
-    if (typeof window === "undefined") {
-        try {
-            const fs = await import("fs/promises");
-            const path = await import("path");
-            const fileName = lang === "pt-br" ? "blogs-br.json" : "blogs.json";
-            const filePath = path.join(process.cwd(), "public", "api", fileName);
-            const content = await fs.readFile(filePath, "utf-8");
-            return JSON.parse(content) as Blog[];
-        } catch (e) {
-            console.error("Direct fs read in BlogService failed, falling back to fetch:", e);
-        }
-    }
-
-    const isServer = typeof window === "undefined";
-    const baseUrl = isServer ? host : "";
-    const url = `${baseUrl}${lang === "pt-br" ? "/api/blogs-br.json" : "/api/blogs.json"}`;
-    const revalidate = process.env.NODE_ENV === "development" ? 0 : 3600;
-    const response = await fetch(url, { next: { revalidate } });
-    if (!response.ok) {
-        throw new Error("Failed to fetch blogs");
-    }
-    return (await response.json()) as Blog[];
+    const fileName = lang === "pt-br" ? "blogs-br.json" : "blogs.json";
+    return readApiJson<Blog[]>(fileName);
 };
 
 export const BlogService = {

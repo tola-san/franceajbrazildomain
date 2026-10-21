@@ -1,6 +1,6 @@
-import { host } from "@/config";
 import { BaseResponse } from "@/types/base-response";
 import { Category, CategoryQueryParams } from "@/types/category";
+import { readApiJson } from "@/lib/data/read-api-json";
 
 export const CategoryService = {
     getCategories: async (
@@ -9,12 +9,8 @@ export const CategoryService = {
         const { lang } = options;
 
         try {
-            const isServer = typeof window === 'undefined';
-            const baseUrl = isServer ? host : '';
-
-            const categoryUrl = `${baseUrl}${lang === "pt-br" ? "/api/categories-br.json" : "/api/categories.json"}`;
-            const categoriesResponse = await fetch(categoryUrl, { next: { revalidate: 3600 } });
-            const categories: Category[] = await categoriesResponse.json();
+            const fileName = lang === "pt-br" ? "categories-br.json" : "categories.json";
+            const categories = await readApiJson<Category[]>(fileName);
 
             return {
                 message: "Get categories has been success",

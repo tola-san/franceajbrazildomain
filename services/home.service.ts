@@ -3,9 +3,9 @@ import { Category } from "@/types/category";
 import { HomePage } from "@/types/home";
 import { Product } from "@/types/product";
 import { QueryOptions } from "@/types/query-option";
-import { host } from "@/config";
 import { isProductActive } from "@/lib/products/products";
 import { ROUTES } from "@/utils/route";
+import { readApiJson } from "@/lib/data/read-api-json";
 
 interface HomeQueryParams extends QueryOptions {
     random?: boolean;
@@ -28,39 +28,19 @@ export const HomeService = {
         };
 
         try {
-            const isServer = typeof window === 'undefined';
-            const baseUrl = isServer ? host : '';
-
             // Get categories
-            const categoryUrl = `${baseUrl}${lang === "pt-br" ? "/api/categories-br.json" : "/api/categories.json"}`;
-            const categoriesResponse = await fetch(categoryUrl, { next: { revalidate: 3600 } });
-            const categories: Category[] = await categoriesResponse.json();
+            const categoryFileName = lang === "pt-br" ? "categories-br.json" : "categories.json";
+            const categories = await readApiJson<Category[]>(categoryFileName);
 
-            // Get Product Collection
-            // product frozen-meat
-            const frozenMeatUrl = `${baseUrl}${lang === 'pt-br' ? '/api/products-br.json' : '/api/products.json'}`
-            const frozenMeatResponse = await fetch(frozenMeatUrl, { next: { revalidate: 3600 } })
-            const frozenMeat: Product[] = await frozenMeatResponse.json()
+            // Get Products
+            const productFileName = lang === 'pt-br' ? 'products-br.json' : 'products.json';
+            const allProducts = await readApiJson<Product[]>(productFileName);
             const limit = options.limit || 3;
-            const frozenMeatFiltered = shuffleArray(frozenMeat.filter((p) => isProductActive(p) && p.type.includes('frozen-meat'))).slice(0, limit)
 
-            // product sugar
-            const sugarUrl = `${baseUrl}${lang === 'pt-br' ? '/api/products-br.json' : '/api/products.json'}`
-            const sugarResponse = await fetch(sugarUrl, { next: { revalidate: 3600 } })
-            const sugar: Product[] = await sugarResponse.json()
-            const sugarFiltered = shuffleArray(sugar.filter((p) => isProductActive(p) && p.type.includes('sugar'))).slice(0, limit)
-
-            // prodcut grain
-            const grainUrl = `${baseUrl}${lang === 'pt-br' ? '/api/products-br.json' : '/api/products.json'}`
-            const grainResponse = await fetch(grainUrl, { next: { revalidate: 3600 } })
-            const grains: Product[] = await grainResponse.json()
-            const grainFiltered = shuffleArray(grains.filter((p) => isProductActive(p) && p.type.includes('grain'))).slice(0, limit)
-
-            // prodcut oils category
-            const oilsUrl = `${baseUrl}${lang === 'pt-br' ? '/api/products-br.json' : '/api/products.json'}`
-            const oilsResponse = await fetch(oilsUrl, { next: { revalidate: 3600 } })
-            const oils: Product[] = await oilsResponse.json()
-            const oilsFiltered = shuffleArray(oils.filter((p) => isProductActive(p) && p.category.includes('oils'))).slice(0, limit)
+            const frozenMeatFiltered = shuffleArray(allProducts.filter((p) => isProductActive(p) && p.type.includes('frozen-meat'))).slice(0, limit);
+            const sugarFiltered = shuffleArray(allProducts.filter((p) => isProductActive(p) && p.type.includes('sugar'))).slice(0, limit);
+            const grainFiltered = shuffleArray(allProducts.filter((p) => isProductActive(p) && p.type.includes('grain'))).slice(0, limit);
+            const oilsFiltered = shuffleArray(allProducts.filter((p) => isProductActive(p) && p.category.includes('oils'))).slice(0, limit);
 
             return {
                 message: "Get home page has been success",

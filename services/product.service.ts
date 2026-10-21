@@ -1,7 +1,7 @@
-import { host } from "@/config";
 import { BaseResponse } from "@/types/base-response";
 import { Product, ProductQueryParams } from "@/types/product";
 import { isProductActive } from "@/lib/products/products";
+import { readApiJson } from "@/lib/data/read-api-json";
 
 export const ProductService = {
     getProducts: async (
@@ -10,13 +10,8 @@ export const ProductService = {
         const { lang, category, type, limit, random, slug, search, tags } = options;
 
         try {
-            const isServer = typeof window === "undefined";
-            const baseUrl = isServer ? host : "";
-
-            const productUrl = `${baseUrl}${lang === "pt-br" ? "/api/products-br.json" : "/api/products.json"
-                }`;
-            const response = await fetch(productUrl, { next: { revalidate: 3600 } });
-            const products: Product[] = await response.json();
+            const fileName = lang === "pt-br" ? "products-br.json" : "products.json";
+            const products = await readApiJson<Product[]>(fileName);
 
             // Only display active products (hides any marked `status: 'inactive'`).
             let filteredProducts = products.filter(isProductActive);
@@ -94,12 +89,8 @@ export const ProductService = {
     },
     getProductBySlug: async (slug: string, lang?: string): Promise<BaseResponse<{ product: Product | null, relatedProducts: Product[] }>> => {
         try {
-            const isServer = typeof window === "undefined";
-            const baseUrl = isServer ? host : "";
-
-            const productUrl = `${baseUrl}${lang === "pt-br" ? "/api/products-br.json" : "/api/products.json"}`;
-            const response = await fetch(productUrl, { next: { revalidate: 3600 } });
-            const products: Product[] = await response.json();
+            const fileName = lang === "pt-br" ? "products-br.json" : "products.json";
+            const products = await readApiJson<Product[]>(fileName);
 
             const product = products.find((p) => p.slug === slug);
 
