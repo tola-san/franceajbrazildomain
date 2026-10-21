@@ -3,16 +3,15 @@ import { NextRequest } from 'next/server'
 import { ProductOrderSummaryEmail } from '@/components/email/QuotationTemplate'
 import { QuotationResponseEmail } from '@/components/email/QuotationResponseEmail'
 
-const resend = new Resend(process.env.RESEND_API_KEY)
-
 export async function POST(req: NextRequest) {
+     const resend = new Resend(process.env.RESEND_API_KEY)
      const formData = await req.json()
 
      try {
           const { data, error } = await resend.batch.send([
                {
-                    from: process.env.FROM_EMAIL!!,
-                    to: process.env.RECEIVER_EMAIL!!,
+                    from: process.env.FROM_EMAIL!,
+                    to: process.env.RECEIVER_EMAIL!,
                     subject: `New message from ${formData.contact.name} - ${formData.contact.subject}`,
                     react: ProductOrderSummaryEmail({
                          contact: formData.contact,
